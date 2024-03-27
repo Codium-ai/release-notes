@@ -32,9 +32,12 @@ There's a known issue with Android Studio, which doesn't support JCEF 😕, but 
 
 ## OptOut from Data Training directly from the plugin
 
-Free users can now Opt Out from the model training directly from our plugin settings. In order to do that, go to the Plugin Settings, and check `Opt out of sharing my data with Codium AI` checkbox. **[Read More](http://codiumate-docs.codium.ai/installation/opt-out/)**.
+Free users can now Opt Out from the model training directly from our plugin settings. In order to do that, go to the Plugin Settings, and check `Opt out of sharing my data with CodiumAI` checkbox. **[Read More](http://codiumate-docs.codium.ai/installation/opt-out/)**.
 
 ## Bug fixes
 
 - Fixed broken (by JetBrains) Python support in none PC 2024.1 IDEs.
 - Fixed more "Slow call on EDT ..." errors in recent 2024.1
+- Chat's Git related commands proper notification and behaviour in case of Git repository not found/detected.
+- Chat's scrollbars are now shown according to the current theme.
+- Sunsetting "Codiumate Structure" and moved it all to the new Codiumate Chat.
