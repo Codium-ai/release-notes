@@ -1,9 +1,9 @@
-# Latest
+# Latest Releases 
 **March 28, 2024**
 
 ## Codiumate for JetBrains
 
-**[Full Release Notes](./versions/2024-3-28/codiumate-jb.md)**
+**[Full Release Notes](./versions/latest/codiumate-jb.md)**
 
 Our JetBrains plugin now has a **New Chat Interface!**
 
@@ -12,13 +12,13 @@ Our incredible JetBrains team has put in a lot of hard work, and we're excited t
 **Check it out:**
 
 <figure markdown="1">
-![JB New Chat](./versions/2024-3-28/assets/jb-new-chat.png){ width="600" }
+![JB New Chat](./versions/latest/assets/jb-new-chat.png){ width="600" }
 </figure>
 
 
 ## Codiumate for VSCode
 
-**[Full Release Notes](./codiumate-vscode.md)**
+**[Full Release Notes](./versions/latest/vscode.md)**
 
 We're cooking up something exciting, and you'll hear about it soon. But in the meantime, we've introduced some really cool features that will enhance the existing ones and make them even more awesome! One of these enhancements includes... adding more context! 🍾
 
@@ -27,14 +27,14 @@ Codiumate chat now allows you to include more context when sending any command, 
 **See how it works:**
 
 <figure markdown="1">
-![VSCode Context](./versions/2024-3-28/assets/vscode-context.png){ width="700" }
+![VSCode Context](./versions/latest/assets/vscode-context.png){ width="700" }
 </figure>
 
 
 
 ## PR-Agent
 
-**[Full Release Notes](./versions/2024-3-28/pr-agent.md)**
+**[Full Release Notes](./versions/latest/pr-agent.md)**
 
 As always, our PR-Agent open source is getting better and better, with the great help from our dear contributors. Keep sharing your love and stars on [GitHub](https://github.com/Codium-ai/pr-agent/) ⭐️
 
@@ -45,6 +45,6 @@ Get [similar code](https://pr-agent-docs.codium.ai/tools/similar_code/) in GitHu
 **See how Similar Code looks like:**
 
 <figure markdown="1">
-![Similar Code](./versions/2024-3-28/assets/pr-agent-similar-code.png){ width="700" }
+![Similar Code](./versions/latest/assets/pr-agent-similar-code.png){ width="700" }
 </figure>
 

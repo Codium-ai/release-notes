@@ -4,7 +4,7 @@
 
 Our JetBrains plugin now has a **New Chat Interface!**
 
-Codiumate Chat now suppoorts a modern interface with JetBrains IDEs. The interface has been redesign for a smoother experience and now matches the design language of Codiumate for VSCode.
+Codiumate Chat now supports a modern interface with JetBrains IDEs. The interface has been redesign for a smoother experience and now matches the design language of Codiumate for VSCode.
 
 **Check it out:**
 
