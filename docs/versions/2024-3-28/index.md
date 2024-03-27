@@ -1,5 +1,4 @@
-# Latest
-**March 28, 2024**
+# March 28, 2024
 
 ## Codiumate for JetBrains
 

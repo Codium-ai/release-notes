@@ -3,8 +3,8 @@ site_name: CodiumAI Release Notes
 nav: 
   - March 28, 2024: 
     - 'versions/2024-3-28/index.md'
-    - Codiumate JetBrains: 'versions/2024-3-28/codiumate-jb.md'
-    - Codiumate VSCode: 'versions/2024-3-28/codiumate-vscode.md'
+    - Codiumate JetBrains: 'versions/2024-3-28/jetbrains.md'
+    - Codiumate VSCode: 'versions/2024-3-28/vscode.md'
     - PR Agent: 'versions/2024-3-28/pr-agent.md'
 
 theme:
