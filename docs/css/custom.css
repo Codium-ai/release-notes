@@ -23,3 +23,8 @@
     outline-style: solid;
     outline-color: darkgray;
   }
+
+  .md-content img.no-border {
+    border-width: 0px;
+    outline-width: 0px;
+  }

@@ -1,4 +1,11 @@
-# Codiumate VSCode v0.7.54
+<figure markdown="1">
+![](../../assets/codium-logo.png){ class="no-border" width=200 }
+
+![](./assets/VSCode%20release%20notes.png){ class="no-border" width=780}
+</figure>
+
+#
+## v.0.7.54
 
 ## Add Context to Codiumate Chat
 

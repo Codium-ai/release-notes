@@ -1,5 +1,11 @@
-# PR-Agent v0.21
+<figure markdown="1">
+![](../../assets/codium-logo.png){ class="no-border" width=200 }
 
+![](./assets/pr-agent%20release%20notes.png){ class="no-border" width=780}
+</figure>
+
+# 
+## v0.21
 As always, our PR-Agent open source is getting better and better, with the great help from our dear contributors.
 
 If you haven't seen yet, we have a **[new documentation portal](https://pr-agent-docs.codium.ai/)** that contains all the information you need to know about installing and working with PR-Agent.

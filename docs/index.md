@@ -1,6 +1,10 @@
-# Latest Releases 
-**March 28, 2024**
+<figure markdown="1">
+![](../../assets/codium-logo.png){ class="no-border" width=200 }
 
+![](./versions/latest/assets/all%20release%20notes.png){ class="no-border" width=780}
+</figure>
+
+#
 ## Codiumate for JetBrains
 
 **[Full Release Notes](./versions/latest/codiumate-jb.md)**
