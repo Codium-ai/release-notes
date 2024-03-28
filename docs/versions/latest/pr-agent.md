@@ -21,7 +21,7 @@ If you haven't seen yet, we have a **[new documentation portal](https://pr-agent
 **See how Similar Code looks like:**
 
 <figure markdown="1">
-![Similar Code](./versions/latest/assets/pr-agent-similar-code.png){ width="700" }
+![Similar Code](./assets/pr-agent-similar-code.png){ width="700" }
 </figure>
 
 
