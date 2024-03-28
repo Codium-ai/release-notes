@@ -18,5 +18,10 @@ If you haven't seen yet, we have a **[new documentation portal](https://pr-agent
 - Added `Similar Code` tool, which searches similar code in GitHub or inside your organization, using keyworkds. **[Read more](https://pr-agent-docs.codium.ai/tools/similar_code/)**.
 
 
+**See how Similar Code looks like:**
+
+<figure markdown="1">
+![Similar Code](./versions/latest/assets/pr-agent-similar-code.png){ width="700" }
+</figure>
 
 
