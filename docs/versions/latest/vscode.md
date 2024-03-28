@@ -5,7 +5,7 @@
 </figure>
 
 #
-## v.0.7.54
+## v.0.7.55
 
 ## Add Context to Codiumate Chat
 
