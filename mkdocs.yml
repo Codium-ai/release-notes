@@ -5,17 +5,17 @@ nav:
   - Latest JetBrains: 'versions/latest/jetbrains.md'
   - Latest VSCode: 'versions/latest/vscode.md'
   - Latest PR-Agent: 'versions/latest/pr-agent.md'
-  # - April 4, 2024: 
-  #   - JetBrains: 'versions/2024-04-04/jetbrains.md'
-  #   - VSCode: 'versions/2024-04-04/vscode.md'
-  #   - PR-Agent: 'versions/2024-04-04/pr-agent.md'
+  - March 28, 2024: 
+    - 'versions/2024-03-28/index.md'
+    - JetBrains: 'versions/2024-03-28/jetbrains.md'
+    - VSCode: 'versions/2024-03-28/vscode.md'
+    - PR-Agent: 'versions/2024-03-28/pr-agent.md'
 
 theme:
   logo: assets/logo.svg
   favicon: assets/favicon.ico
   name: material
   features:
-    - navigation.expand
     - navigation.path
     - navigation.top
     - navigation.tracking
@@ -57,6 +57,14 @@ plugins:
   - social
   - search
   - glightbox
+  - mkdocs-video:
+      css_style:
+        position: relative;
+        width: "70%"
+        height: "25.172vw"
+        margin-left: "auto"
+        margin-right: "auto"
+        display: "block"
 
 extra:
   generator: false

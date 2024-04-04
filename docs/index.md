@@ -5,50 +5,25 @@
 </figure>
 
 #
-## Codiumate for JetBrains
+## Introducing - Codiumate Coding-Agent!
 
-**[Full Release Notes](./versions/latest/codiumate-jb.md)**
+**Exciting announcement this week** - We have released the first alpha version of our **[Coding-Agent](https://www.codium.ai/products/coding-agent/)** in our VSCode extension!
 
-Our JetBrains plugin now has a **New Chat Interface!**
+In Codiumate v0.8 for VSCode, you will find your next best friend: a coding agent that helps you complete any task in your project. Just write the specification, select the relevant context, and let Codiumate write the plan and even auto-complete the code for you!
 
-Our incredible JetBrains team has put in a lot of hard work, and we're excited to unveil a new chat interface that looks and feels more like 2024 and less like.. well.. 2023. The new interface looks just like our VSCode chat. We are now working on adding all the features that we have in VSCode.
-
-**Check it out:**
+We are releasing the Codiumate-Agent in its alpha form because we, as developers, believe in giving users the chance to influence the product as early as possible. Additionally, we love seeing our users enjoy what we build.
 
 <figure markdown="1">
-![JB New Chat](./versions/latest/assets/jb-new-chat.png){ width="600" }
+![coding-agent](./versions/latest/assets/coding-agent.jpg){class="no-border" width=70%}
 </figure>
 
-
-## Codiumate for VSCode
-
-**[Full Release Notes](./versions/latest/vscode.md)**
-
-We're cooking up something exciting, and you'll hear about it soon. But in the meantime, we've introduced some really cool features that will enhance the existing ones and make them even more awesome! One of these enhancements includes... adding more context! 🍾
-
-Codiumate chat now allows you to include more context when sending any command, ensuring you get better results. This context can be drawn from the current repository or any other repository you want!
-
-**See how it works:**
-
-<figure markdown="1">
-![VSCode Context](./versions/latest/assets/vscode-context.png){ width="700" }
-</figure>
+<p style="text-align:center; font-size:120%;"> <b>In celebration of the Codiumate-Agent's launch, we are excited to extend a special offer to all our users: a 2-week trial of the Teams plan, giving everyone the opportunity to try the new feature.</b></p>
+<p style="text-align:center"> 🎉</p>
 
 
+Why imagine what you can see for real? Watch a demo of the Codiumate-Agent at its best, where it successfully auto-completes over 90% of a real task in our open-source project PR-Agent:
 
-## PR-Agent
+![type:video](https://www.youtube.com/embed/9dH3pUzsbig?si=dSRMHNdeahUTtEdn)
 
-**[Full Release Notes](./versions/latest/pr-agent.md)**
-
-As always, our PR-Agent open source is getting better and better, with the great help from our dear contributors. Keep sharing your love and stars on [GitHub](https://github.com/Codium-ai/pr-agent/) ⭐️
-
-Some really cool features were added lately, including:
-
-Get [similar code](https://pr-agent-docs.codium.ai/tools/similar_code/) in GitHub, added support for bedrock/claude3, added Pypi support to install PR-Agent with pip and more.
-
-**See how Similar Code looks like:**
-
-<figure markdown="1">
-![Similar Code](./versions/latest/assets/pr-agent-similar-code.png){ width="700" }
-</figure>
+**Read the new blog by Itamar, CodiumAI's CEO - [Tandem Coding with my Agent](https://www.codium.ai/blog/tandem-development-agent-plan-aware-auto-complete-with-automatic-review/).**
 
