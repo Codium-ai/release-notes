@@ -61,7 +61,7 @@ plugins:
       css_style:
         position: relative;
         width: "70%"
-        height: "25.172vw"
+        height: "20.172vw"
         margin-left: "auto"
         margin-right: "auto"
         display: "block"
