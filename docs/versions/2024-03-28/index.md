@@ -7,7 +7,7 @@
 #
 ## Codiumate for JetBrains
 
-**[Full Release Notes](./codiumate-jb.md)**
+**[Full Release Notes](./jetbrains.md)**
 
 Our JetBrains plugin now has a **New Chat Interface!**
 
@@ -22,7 +22,7 @@ Our incredible JetBrains team has put in a lot of hard work, and we're excited t
 
 ## Codiumate for VSCode
 
-**[Full Release Notes](./codiumate-vscode.md)**
+**[Full Release Notes](./vscode.md)**
 
 We're cooking up something exciting, and you'll hear about it soon. But in the meantime, we've introduced some really cool features that will enhance the existing ones and make them even more awesome! One of these enhancements includes... adding more context! 🍾
 
