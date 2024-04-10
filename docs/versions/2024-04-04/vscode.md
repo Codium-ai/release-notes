@@ -1,11 +1,10 @@
 <figure markdown="1">
 ![](../../assets/codium-logo.png){ class="no-border" width=200 }
 
-![](./assets/VSCode%20release%20notes.png){ class="no-border" width=780}
+![](../../assets/VSCode%20release%20notes.png){ class="no-border" width=780}
+# April 4, 2024
+### v.0.8
 </figure>
-
-#
-## v.0.8
 
 ## Codiumate Coding-Agent
 

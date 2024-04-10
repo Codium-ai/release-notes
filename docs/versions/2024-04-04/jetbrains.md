@@ -1,11 +1,10 @@
 <figure markdown="1">
 ![](../../assets/codium-logo.png){ class="no-border" width=200 }
 
-![](./assets/JetBrains%20release%20notes.png){ class="no-border" width=780}
+![](../../assets/JetBrains%20release%20notes.png){ class="no-border" width=780}
+# April 4, 2024
+### v.0.7.29
 </figure>
-
-# 
-## v.0.7.29
 
 This week we mainly fixed some issues while working very hard on supporting all commands and contexts in the Codiumate Chat!
 
