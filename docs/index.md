@@ -1,29 +1,37 @@
 <figure markdown="1">
 ![](./assets/codium-logo.png){ class="no-border" width=200 }
 
-![](./versions/latest/assets/all%20release%20notes.png){ class="no-border" width=780}
+![](./assets/all%20release%20notes.png){ class="no-border" width=780}
+# April 10, 2024
 </figure>
 
-#
-## Introducing - Codiumate Coding-Agent!
+## Codiumate for VSCode
 
-**Exciting announcement this week** - We have released the first alpha version of our **[Coding-Agent](https://www.codium.ai/products/coding-agent/)** in our VSCode extension!
+**[See full Release Notes](./versions/latest/vscode.md)**
 
-In Codiumate v0.8 for VSCode, you will find your next best friend: a coding agent that helps you complete any task in your project. Just write the specification, select the relevant context, and let Codiumate write the plan and even auto-complete the code for you!
+### New! Chat Just Got Smarter with Image Integration
 
-We are releasing the Codiumate-Agent in its alpha form because we, as developers, believe in giving users the chance to influence the product as early as possible. Additionally, we love seeing our users enjoy what we build.
+Now you can simply paste images right into the chat in both Free Chat and our new Coding Agent! This cool new feature lets you ask questions about the images you upload. Want the HTML code for a design? Just upload the image. Got a UML diagram? Let the Coding Agent map it out for you.
 
-<figure markdown="1">
-![coding-agent](./versions/latest/assets/coding-agent.jpg){class="no-border" width=70%}
-</figure>
+It’s all about making your chat experience as helpful and interactive as possible.
 
-<p style="text-align:center; font-size:120%;"> <b>In celebration of the Codiumate-Agent's launch, we are excited to extend a special offer to all our users: a 2-week trial of the Teams plan, giving everyone the opportunity to try the new feature.</b></p>
-<p style="text-align:center"> 🎉</p>
+Dive in and see what you can create!
+
+Check out this demo:
+
+![type:video](https://www.youtube.com/embed/dUHkNK1OD2g?si=lq79WESITHMukQRq)
 
 
-Why imagine what you can see for real? Watch a demo of the Codiumate-Agent at its best, where it successfully auto-completes over 90% of a real task in our open-source project PR-Agent:
+## Codiumate for JetBrains
 
-![type:video](https://www.youtube.com/embed/9dH3pUzsbig?si=dSRMHNdeahUTtEdn)
+**[See full Release Notes](./versions/latest/jetbrains.md)**
 
-**Read the new blog by Itamar, CodiumAI's CEO - [Tandem Coding with my Agent](https://www.codium.ai/blog/tandem-development-agent-plan-aware-auto-complete-with-automatic-review/).**
+### Threads are now available in the Codiumate Chat plugin for JetBrains!
+
+Threads are a dynamic tool in Codiumate designed to enhance your interactions with the AI. This feature enables you to dive deeper into discussions, refine responses, and extend conversations to achieve more targeted outcomes. Through Threads, you can iteratively adjust results, seek additional insights, or steer dialogues toward more precise conclusions. Activate a thread by clicking the `Continue this Chat` button at the end of a response to develop initial answers into fully fleshed-out solutions.
+
+**[Learn more about Threads](https://codiumate-docs.codium.ai/chat/threads/)**
+
+See what you can do with Threads in this video:
+![type:video](https://www.youtube.com/embed/BYzwkzx7XpI?si=Zlay8LbvBd5OTMzs)
 

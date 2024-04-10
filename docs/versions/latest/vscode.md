@@ -1,40 +1,32 @@
 <figure markdown="1">
 ![](../../assets/codium-logo.png){ class="no-border" width=200 }
 
-![](./assets/VSCode%20release%20notes.png){ class="no-border" width=780}
+![](../../assets/VSCode%20release%20notes.png){ class="no-border" width=780}
+# April 10, 2024
+### v0.8.2
 </figure>
 
-#
-## v.0.8
+## New! Chat Just Got Smarter with Image Integration
 
-## Codiumate Coding-Agent
+Now you can simply paste images right into the chat in both Free Chat and our new Coding Agent! This cool new feature lets you ask questions about the images you upload. Want the HTML code for a design? Just upload the image. Got a UML diagram? Let the Coding Agent map it out for you. 
 
-**Exciting announcement this week** - We have released the first alpha version of our **[Coding-Agent](https://www.codium.ai/products/coding-agent/)** in our VSCode extension!
+It’s all about making your chat experience as helpful and interactive as possible. 
 
-In Codiumate v0.8 for VSCode, you will find your next best friend: a coding agent that helps you complete any task in your project. Just write the specification, select the relevant context, and let Codiumate write the plan and even auto-complete the code for you!
+Dive in and see what you can create!
 
-We are releasing the Codiumate-Agent in its alpha form because we, as developers, believe in giving users the chance to influence the product as early as possible. Additionally, we love seeing our users enjoy what we build.
-
-<figure markdown="1">
-![coding-agent](./assets/coding-agent.jpg){class="no-border" width=70%}
-</figure>
-
-<p style="text-align:center; font-size:120%;"> <b>In celebration of the Codiumate-Agent's launch, we are excited to extend a special offer to all our users: a 2-week trial of the Teams plan, giving everyone the opportunity to try the new feature.</b></p>
-<p style="text-align:center"> 🎉</p>
+Check out this demo:
 
 
-Why imagine what you can see for real? Watch a demo of the Codiumate-Agent at its best, where it successfully auto-completes over 90% of a real task in our open-source project PR-Agent:
 
-![type:video](https://www.youtube.com/embed/9dH3pUzsbig?si=dSRMHNdeahUTtEdn)
+--- 
 
-**Read the new blog by Itamar, CodiumAI's CEO - [Tandem Coding with my Agent](https://www.codium.ai/blog/tandem-development-agent-plan-aware-auto-complete-with-automatic-review/).**
+Last week we have released our new [Coding-Agent](../2024-04-04/index.md) in our VSCode extension, and we are excited to see how many of you have already tried it out! We hope that this new feature will make your coding experience even more efficient and enjoyable.
 
-## Code Completion
+This week we improved our Coding-Agent, fixed some issues around it, and we're going to improve it even more in the upcoming weeks. **Stay tuned for more updates!**
 
-Well, part of our Coding-Agent includes a code completion tool. However, our code auto-completer has actually been available in alpha for a while now, and we will soon be publishing it to GA!
+---
 
-Codiumate's code auto-completer is now offered to our Teams and Enterprise users (and, as mentioned above, to all our users during the trial period).
+## Bug fixes
 
-To enable our code auto-copleter please go to the extension settings, and check the `Codium > Code auto-complete` section.
-
-We would love to hear if how it worked for you! Share yout thoughts and feedback on our [Discord Community](https://discord.gg/codiumai-1057273017547378788).
+1. We resolved an issue in the thread where it previously stopped responding.
+2. We also fixed a problem in a thread involving code, where the thread was losing the initial context.

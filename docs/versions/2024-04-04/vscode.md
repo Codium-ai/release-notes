@@ -1,11 +1,12 @@
 <figure markdown="1">
 ![](../../assets/codium-logo.png){ class="no-border" width=200 }
 
-![](../../assets/all%20release%20notes.png){ class="no-border" width=780}
+![](../../assets/VSCode%20release%20notes.png){ class="no-border" width=780}
 # April 4, 2024
+### v.0.8
 </figure>
 
-## Introducing - Codiumate Coding-Agent!
+## Codiumate Coding-Agent
 
 **Exciting announcement this week** - We have released the first alpha version of our **[Coding-Agent](https://www.codium.ai/products/coding-agent/)** in our VSCode extension!
 
@@ -26,3 +27,13 @@ Why imagine what you can see for real? Watch a demo of the Codiumate-Agent at it
 ![type:video](https://www.youtube.com/embed/9dH3pUzsbig?si=dSRMHNdeahUTtEdn)
 
 **Read the new blog by Itamar, CodiumAI's CEO - [Tandem Coding with my Agent](https://www.codium.ai/blog/tandem-development-agent-plan-aware-auto-complete-with-automatic-review/).**
+
+## Code Completion
+
+Well, part of our Coding-Agent includes a code completion tool. However, our code auto-completer has actually been available in alpha for a while now, and we will soon be publishing it to GA!
+
+Codiumate's code auto-completer is now offered to our Teams and Enterprise users (and, as mentioned above, to all our users during the trial period).
+
+To enable our code auto-copleter please go to the extension settings, and check the `Codium > Code auto-complete` section.
+
+We would love to hear if how it worked for you! Share yout thoughts and feedback on our [Discord Community](https://discord.gg/codiumai-1057273017547378788).

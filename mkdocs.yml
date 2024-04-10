@@ -5,6 +5,10 @@ nav:
   - Latest JetBrains: 'versions/latest/jetbrains.md'
   - Latest VSCode: 'versions/latest/vscode.md'
   - Latest PR-Agent: 'versions/latest/pr-agent.md'
+  - April 4, 2024:
+    - 'versions/2024-04-04/index.md'
+    - JetBrains: 'versions/2024-04-04/jetbrains.md'
+    - VSCode: 'versions/2024-04-04/vscode.md'
   - March 28, 2024: 
     - 'versions/2024-03-28/index.md'
     - JetBrains: 'versions/2024-03-28/jetbrains.md'

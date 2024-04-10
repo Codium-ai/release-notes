@@ -1,11 +1,10 @@
 <figure markdown="1">
 ![](../../assets/codium-logo.png){ class="no-border" width=200 }
 
-![](./assets/VSCode%20release%20notes.png){ class="no-border" width=780}
+![](../../assets/VSCode%20release%20notes.png){ class="no-border" width=780}
+# March 28, 2024
+### v.0.7.55
 </figure>
-
-#
-## v.0.7.55
 
 ## Add Context to Codiumate Chat
 
