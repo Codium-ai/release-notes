@@ -3,7 +3,7 @@
 
 ![](../../assets/VSCode%20release%20notes.png){ class="no-border" width=780}
 # April 10, 2024
-### v0.8.2
+### v0.8.3
 </figure>
 
 ## New! Chat Just Got Smarter with Image Integration
