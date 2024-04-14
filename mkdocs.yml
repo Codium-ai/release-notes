@@ -2,28 +2,31 @@ site_name: CodiumAI Release Notes
 
 nav: 
   - Home: 'index.md'
-  - Latest JetBrains: 'versions/latest/jetbrains.md'
-  - Latest VSCode: 'versions/latest/vscode.md'
-  - Latest PR-Agent: 'versions/latest/pr-agent.md'
-  - April 4, 2024:
-    - 'versions/2024-04-04/index.md'
-    - JetBrains: 'versions/2024-04-04/jetbrains.md'
-    - VSCode: 'versions/2024-04-04/vscode.md'
-  - March 28, 2024: 
-    - 'versions/2024-03-28/index.md'
-    - JetBrains: 'versions/2024-03-28/jetbrains.md'
-    - VSCode: 'versions/2024-03-28/vscode.md'
-    - PR-Agent: 'versions/2024-03-28/pr-agent.md'
+  - JetBrains: 'versions/latest/jetbrains.md'
+  - VSCode: 'versions/latest/vscode.md'
+  - PR-Agent: 'versions/latest/pr-agent.md'
+  - Older Versions: 
+    - April 4, 2024:
+      - 'versions/2024-04-04/index.md'
+      - JetBrains: 'versions/2024-04-04/jetbrains.md'
+      - VSCode: 'versions/2024-04-04/vscode.md'
+    - March 28, 2024:
+      - 'versions/2024-03-28/index.md'
+      - JetBrains: 'versions/2024-03-28/jetbrains.md'
+      - VSCode: 'versions/2024-03-28/vscode.md'
+      - PR-Agent: 'versions/2024-03-28/pr-agent.md'
 
 theme:
   logo: assets/logo.svg
   favicon: assets/favicon.ico
   name: material
+  font: false
   features:
     - navigation.path
     - navigation.top
     - navigation.tracking
     - navigation.indexes
+    - navigation.tabs
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -105,6 +108,9 @@ markdown_extensions:
   - pymdownx.mark
   - attr_list
   - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg

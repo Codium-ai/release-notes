@@ -24,7 +24,36 @@
     outline-color: darkgray;
   }
 
-  .md-content img.no-border {
-    border-width: 0px;
-    outline-width: 0px;
-  }
+.md-content img.no-border {
+  border-width: 0px;
+  outline-width: 0px;
+}
+
+.code-style {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 14px;
+}
+
+.md-typeset h1,
+.md-content__button {
+  display: none;
+}
+
+.md-typeset h2 {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.md-typeset h3 {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.md-typeset p {
+  font-family: 'Source Code Pro', monospace;
+}
+
+
+
+:root {
+  --md-text-font: "Source Code Pro";
+  --md-code-font: "Source Code Pro";
+}
