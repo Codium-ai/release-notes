@@ -69,13 +69,13 @@ We have expanded the command repertoire in Codiumate Chat’s File Mode:
 
 ## What’s Next?
 
-!!! tip "File Mode Commands"
+!!! file "File Mode Commands"
     We plan to integrate additional commands such as `/enhance` and `/improve` into our File Mode chat.
 
-!!! abstract "Workspace Modes"
+!!! folder "Workspace Modes"
     Further enhancements to Workspace Mode are on the horizon, with a focus on Local Changes as well as Committed Changes, enabling you to review modifications before pushing them to your branch.
 
-!!! example "Workspace Mode Commands"
+!!! command "Workspace Mode Commands"
     We are also developing new commands for Workspace Mode, including `/issues` and `/recap`.
 
 **Stay Tuned!**
