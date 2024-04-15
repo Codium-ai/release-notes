@@ -2,7 +2,7 @@ site_name: CodiumAI Release Notes Digest
 site_description: Latest release notes of Codiumate and PR-Agent
 
 nav: 
-  - Home: 'index.md'
+  - CodiumAI Release Notes: 'index.md'
   - JetBrains: 'versions/latest/jetbrains.md'
   - VSCode: 'versions/latest/vscode.md'
   - PR-Agent: 'versions/latest/pr-agent.md'
