@@ -2,6 +2,8 @@
 hide:
   - navigation
   - toc
+title: CodiumAI Release Notes Digest
+subtitle: April 10, 2024
 ---
 
 <div markdown class="centered">
@@ -14,7 +16,7 @@ hide:
 <div markdown class="bg-blue">
 <div markdown style="margin-left:5px;">
 
-### **[:simple-visualstudiocode: Codiumate:VSCode | v.0.8.3](../docs/versions/latest/vscode.md)**
+### **[:simple-visualstudiocode: Codiumate:VSCode | v.0.8.3](./versions/latest/vscode.md)**
 
 </div>
 <div style="margin-left:50px; margin-right:50px;" markdown>
@@ -42,7 +44,7 @@ Dive in and see what you can create!
 <div markdown class="bg-green">
 
 <div markdown style="margin-left:5px;">
-### **[:simple-jetbrains: Codiumate:JetBrains | v0.7.30](../docs/versions/latest/jetbrains.md)**
+### **[:simple-jetbrains: Codiumate:JetBrains | v0.7.30](./versions/latest/jetbrains.md)**
 </div>
 
 <div markdown class="centered">
@@ -74,7 +76,7 @@ Activate a thread by clicking the `Continue this Chat` button at the end of a re
 
 <div markdown style="margin-left:5px;">
 
-### **[:fontawesome-solid-robot: PR-Agent | v.0.21](../docs/versions/latest/pr-agent.md)**
+### **[:fontawesome-solid-robot: PR-Agent | v.0.21](./versions/latest/pr-agent.md)**
 
 </div>
 <div markdown class="centered">
