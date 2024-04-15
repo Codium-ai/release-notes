@@ -12,7 +12,7 @@ subtitle: Codiumate plugin for JetBrains v0.7.30 Release Notes
 ### v0.7.30 | April 10, 2024
 ---
 
-<div markdown style="margin-left:50px;margin-right:50px;">
+<div markdown class="content">
 # Introducing: **Threads**
 
 We are excited to announce a new feature that many of you have eagerly anticipated:

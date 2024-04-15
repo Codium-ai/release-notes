@@ -2,22 +2,21 @@
 hide:
   - navigation
   - toc
+title: CodiumAI Release Notes Digest
 ---
 
 <div markdown class="centered">
 ![](./assets/all%20release%20notes.png){ class="no-border"}
 ### April 10, 2024
----
 </div>
-
 
 <div markdown class="bg-blue">
-<div markdown style="margin-left:5px;">
+<h3 markdown class="top-left">
 
-### **[:simple-visualstudiocode: Codiumate:VSCode | v.0.8.3](./versions/latest/vscode.md)**
+**[:simple-visualstudiocode: Codiumate:VSCode | v.0.8.3](./versions/latest/vscode.md)**
 
-</div>
-<div style="margin-left:50px; margin-right:50px;" markdown>
+</h3>
+<div class="content" markdown>
 <div markdown class="centered">
 
 # Chat Just Got Smarter with **Image Integration**
@@ -33,22 +32,20 @@ Dive in and see what you can create!
 
 ![type:video](https://www.youtube.com/embed/dUHkNK1OD2g?si=lq79WESITHMukQRq)
 
-### **[[Read full Release Notes for Codiumate:VSCode]](./versions/latest/vscode.md)**
-<br/>
 </div>
 </div>
 </div>
----
+
 <div markdown class="bg-green">
 
-<div markdown style="margin-left:5px;">
-### **[:simple-jetbrains: Codiumate:JetBrains | v0.7.30](./versions/latest/jetbrains.md)**
-</div>
+<h3 markdown class="top-left">
+**[:simple-jetbrains: Codiumate:JetBrains | v0.7.30](./versions/latest/jetbrains.md)**
+</h3>
 
 <div markdown class="centered">
-<div style="margin-left:50px; margin-right:50px;" markdown>
+<div class="content" markdown>
 
-# **Threads** support in Codiumate:JetBrains!
+# **Threads** support!
 
 
 Threads are a dynamic tool in Codiumate designed to enhance your interactions with the AI. This feature enables you to dive deeper into discussions, refine responses, and extend conversations to achieve more targeted outcomes. 
@@ -62,23 +59,17 @@ Activate a thread by clicking the `Continue this Chat` button at the end of a re
 **See what you can do with Threads in this video:**
 ![type:video](https://www.youtube.com/embed/BYzwkzx7XpI?si=Zlay8LbvBd5OTMzs)
 
-### **[[Read full Release Notes for Codiumate:JetBrains]](./versions/latest/jetbrains.md)** 
-<br/>
-
 </div>
 </div>
 </div>
----
 
 <div markdown class="bg-yellow">
 
-<div markdown style="margin-left:5px;">
-
-### **[:fontawesome-solid-robot: PR-Agent | v.0.21](./versions/latest/pr-agent.md)**
-
-</div>
+<h3 markdown class="top-left">
+**[:fontawesome-solid-robot: PR-Agent | v.0.21](./versions/latest/pr-agent.md)**
+</h3>
 <div markdown class="centered">
-<div style="margin-left:50px; margin-right:50px;" markdown>
+<div class="content" markdown>
 
 ## Continous Improvment 🚀
 
@@ -103,20 +94,16 @@ If you haven't seen yet, we have a **[new documentation portal](https://pr-agent
 
 ![Similar Code](./versions/2024-03-28/assets/pr-agent-similar-code.png){ width="700" }
 
-### **[[Read full Release Notes for PR-Agent]](./versions/latest/pr-agent.md)** 
-<br/>
-
 </div>
 </div>
 </div>
----
 
 
 
 
 <div class="centered" markdown>
 ### Read full Release Notes:
-<div style="margin-left:50px; margin-right:50px;" markdown>
+<div class="content" markdown>
 
 <div class="grid cards" markdown>
 

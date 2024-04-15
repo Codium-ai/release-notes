@@ -27,7 +27,6 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-    - content.tabs.link
   language: en
   language: en
   custom_dir: overrides
@@ -62,7 +61,7 @@ plugins:
       css_style:
         position: relative;
         width: "70%"
-        height: "20.172vw"
+        height: "35.172vw"
         margin-left: "auto"
         margin-right: "auto"
         display: "block"
@@ -111,7 +110,6 @@ markdown_extensions:
   - toc:
       title: On this page
       toc_depth: 1
-      permalink: true
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.superfences:

@@ -12,6 +12,7 @@ subtitle: Codiumate plugin for JetBrains v0.7.30 Release Notes
 ### v0.8.3 | April 10, 2024
 ---
 
+<div class="content" markdown>
 
 # Chat Just Got Smarter with **Image Integration**
 
@@ -45,5 +46,5 @@ This week we improved our Coding-Agent, fixed some issues around it, and we're g
 
 ### **[Read CodiumAI Release Notes Digest](../../index.md)**
 
-
+</div>
 </div>

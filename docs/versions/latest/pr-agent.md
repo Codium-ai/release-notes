@@ -7,10 +7,10 @@ hide:
 <div markdown class="centered">
 ![](../../assets/pr-agent%20release%20notes.png){ class="no-border"}
 ### v0.21 | March 28, 2024
+---
+<div markdown class="content">
 
-<div markdown style="margin-left:50px;margin-right:50px;">
-
-## Continous Improvment 🚀
+# Continous Improvment 🚀
 
 As always, our PR-Agent open-source is getting better and better and has more capabilities, with the great help from our **dear contributors**.
 
