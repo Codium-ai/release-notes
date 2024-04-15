@@ -2,8 +2,6 @@
 hide:
   - navigation
   - toc
-title: CodiumAI Release Notes Digest
-subtitle: April 10, 2024
 ---
 
 <div markdown class="centered">
