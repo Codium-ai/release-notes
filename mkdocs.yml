@@ -22,17 +22,10 @@ theme:
   name: material
   font: false
   features:
-    - navigation.path
-    - navigation.top
-    - navigation.tracking
     - navigation.indexes
-    - navigation.tabs
-    - search.suggest
-    - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-    - toc.integrate
     - content.tabs.link
   language: en
   language: en

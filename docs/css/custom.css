@@ -1,7 +1,48 @@
 :root {
     --md-primary-fg-color: #765bfa;
     --md-accent-fg-color: #AEA1F1;
-  }
+    --bg-color-blue: #0b4952;
+    --bg-color-green: #000000;
+    --bg-color-yellow: #060025;
+}
+
+.bg-blue {
+    background-color: var(--bg-color-blue);
+    width: 100% !important;
+    margin: 0;
+    padding: 0;
+}
+
+.bg-green {
+    background-color: var(--bg-color-green);
+    width: 100% !important;
+    margin: 0;
+    padding: 0;
+}
+
+.bg-yellow {
+    background-color: var(--bg-color-yellow);
+    width: 100% !important;
+    margin: 0;
+    padding: 0;
+}
+
+.centered {
+  text-align: center;
+  align-items: center;
+}
+
+.left {
+  text-align: left;
+  align-items: left;
+}
+
+figure {
+    width: 100% !important;
+    margin: 0;
+    padding: 0;
+}
+
 .md-nav__title, .md-nav__link  {
     font-size: 16px; 
 }
@@ -34,21 +75,23 @@
   font-size: 14px;
 }
 
+
+.md-typeset h2,
 .md-typeset h1,
-.md-content__button {
-  display: none;
+.md-typeset h3,
+.md-typeset h4 {
+  font-family: 'Source Code Pro', monospace;
+  color: azure;
 }
 
-.md-typeset h2 {
+.md-typeset p,
+.md-typeset li {
   font-family: 'Source Code Pro', monospace;
+  color: ghostwhite;
 }
 
-.md-typeset h3 {
-  font-family: 'Source Code Pro', monospace;
-}
-
-.md-typeset p {
-  font-family: 'Source Code Pro', monospace;
+.md-typeset strong {
+  color: #05E5AD;
 }
 
 
