@@ -14,7 +14,7 @@ description: Latest release notes of Codiumate and PR-Agent
 <div markdown class="bg-blue">
 <h3 markdown class="top-left">
 
-**[:simple-visualstudiocode: Codiumate:VSCode | v.0.8.3](./versions/latest/vscode.md)**
+**[<b class="white">:simple-visualstudiocode:</b> Codiumate<b class="green">:</b>VSCode | v0.8.3](./versions/latest/vscode.md)**
 
 </h3>
 <div class="content" markdown>
@@ -40,7 +40,8 @@ Dive in and see what you can create!
 <div markdown class="bg-green">
 
 <h3 markdown class="top-left">
-**[:simple-jetbrains: Codiumate:JetBrains | v0.7.30](./versions/latest/jetbrains.md)**
+
+**[<b class="white">:simple-jetbrains:</b> Codiumate<b class="green">:</b>JetBrains | v0.7.30](./versions/latest/jetbrains.md)**
 </h3>
 
 <div markdown class="centered">
@@ -67,7 +68,8 @@ Activate a thread by clicking the `Continue this Chat` button at the end of a re
 <div markdown class="bg-yellow">
 
 <h3 markdown class="top-left">
-**[:fontawesome-solid-robot: PR-Agent | v.0.21](./versions/latest/pr-agent.md)**
+
+**[<b class="white">:fontawesome-solid-robot:</b> PR<b class="green">-</b>Agent | v0.21](./versions/latest/pr-agent.md)**
 </h3>
 <div markdown class="centered">
 <div class="content" markdown>
@@ -108,9 +110,9 @@ If you haven't seen yet, we have a **[new documentation portal](https://pr-agent
 
 <div class="grid cards" markdown>
 
-- [:simple-jetbrains: __Codiumate:JetBrains__](./versions/latest/jetbrains.md)
-- [:simple-visualstudiocode: __Codiumate:VSCode__ ](./versions/latest/vscode.md)
-- [:fontawesome-solid-robot: __PR-Agent__ ](./versions/latest/pr-agent.md)
+- [<b class="white">:simple-jetbrains:</b> **<b class="green">Codiumate<b class="purple">:</b>JetBrains**</b>](./versions/latest/jetbrains.md)
+- [<b class="white">:simple-visualstudiocode:</b> **<b class="green">Codiumate<b class="purple">:</b>VSCode**</b> ](./versions/latest/vscode.md)
+- [<b class="white">:fontawesome-solid-robot:</b> **<b class="green">PR<b class="purple">-</b>Agent**</b> ](./versions/latest/pr-agent.md)
 
 </div>
 
