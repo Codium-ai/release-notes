@@ -101,7 +101,7 @@ If you haven't seen yet, we have a **[new documentation portal](https://pr-agent
 
 <div class="centered" markdown>
 ### Read full Release Notes:
-<div class="content" markdown>
+
 
 <div class="grid cards" markdown>
 
@@ -109,7 +109,6 @@ If you haven't seen yet, we have a **[new documentation portal](https://pr-agent
 - [<b class="white">:simple-visualstudiocode:</b> **<b class="green">Codiumate<b class="purple">:</b>VSCode**</b> ](./versions/latest/vscode.md)
 - [<b class="white">:fontawesome-solid-robot:</b> **<b class="green">PR<b class="purple">-</b>Agent**</b> ](./versions/latest/pr-agent.md)
 
-</div>
 
 </div>
 </div>
