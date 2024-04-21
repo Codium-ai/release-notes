@@ -5,10 +5,13 @@ hide:
 ---
 
 <div markdown class="centered">
-![](../../assets/pr-agent%20release%20notes.png){ class="no-border"}
+![](../../assets/pr-agent.png){ class="no-border"}
 ### v0.21 | March 28, 2024
 ---
-<div markdown class="content">
+
+<div class="content" markdown>
+<div class="bg-yellow" markdown>
+<div class="content" markdown>
 
 # Continous Improvment 🚀
 
@@ -37,5 +40,8 @@ If you haven't seen yet, we have a **[new documentation portal](https://pr-agent
 
 ### **[Read CodiumAI Release Notes Digest](../../index.md)**
 
+
+</div>
+</div>
 </div>
 </div>

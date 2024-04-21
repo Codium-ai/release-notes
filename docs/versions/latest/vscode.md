@@ -7,12 +7,14 @@ subtitle: Codiumate plugin for JetBrains v0.7.30 Release Notes
 ---
 
 <div class="centered" markdown>
-![](../../assets/VSCode%20release%20notes.png){ class="no-border"}
+![](../../assets/vscode.png){ class="no-border"}
 
 ### v0.8.3 | April 10, 2024
----
 
 <div class="content" markdown>
+<div class="bg-yellow" markdown>
+<div class="content" markdown>
+
 
 # Chat Just Got Smarter with **Image Integration**
 
@@ -24,7 +26,7 @@ Dive in and see what you can create!
 
 **Check out this demo:**
 
-![type:video](https://www.youtube.com/embed/dUHkNK1OD2g?si=lq79WESITHMukQRq)
+![type:video](https://www.youtube.com/embed/dUHkNK1OD2g?si=lq79WESITHMukQRq){: style='width: 60%; height: 30.172vw'}
 
 --- 
 
@@ -46,5 +48,7 @@ This week we improved our Coding-Agent, fixed some issues around it, and we're g
 
 ### **[Read CodiumAI Release Notes Digest](../../index.md)**
 
+</div>
+</div>
 </div>
 </div>

@@ -5,22 +5,29 @@ hide:
 title: CodiumAI Release Notes Digest
 description: Latest release notes of Codiumate and PR-Agent
 ---
-
+<div class="content" markdown>
+<div class="bg-clear" markdown>
 <div markdown class="centered">
-![](./assets/all%20release%20notes.png){ class="no-border"}
 ### April 10, 2024
+![](./assets/title.png){ class="no-border";}
+</div>
 </div>
 
-<div markdown class="bg-blue">
+<div markdown class="bg-yellow">
 <h3 markdown class="top-left">
 
 **[<b class="white">:simple-visualstudiocode:</b> Codiumate<b class="green">:</b>VSCode | v0.8.3](./versions/latest/vscode.md)**
 
 </h3>
-<div class="content" markdown>
-<div markdown class="centered">
 
+
+![type:video](https://www.youtube.com/embed/dUHkNK1OD2g?si=lq79WESITHMukQRq){ align=left}
+
+<div class="centered" markdown>
 # Chat Just Got Smarter with **Image Integration**
+</div>
+
+<div class="left-padding" markdown>
 
 Now you can simply paste images right into the chat in both Free Chat and our new Coding Agent! 
 
@@ -29,27 +36,23 @@ This cool new feature lets you ask questions about the images you upload. Want t
 It’s all about making your chat experience as helpful and interactive as possible.
 Dive in and see what you can create!
 
-**Check out this demo:**
-
-![type:video](https://www.youtube.com/embed/dUHkNK1OD2g?si=lq79WESITHMukQRq)
-
-</div>
 </div>
 </div>
 
 <div markdown class="bg-green">
-
 <h3 markdown class="top-left">
 
 **[<b class="white">:simple-jetbrains:</b> Codiumate<b class="green">:</b>JetBrains | v0.7.30](./versions/latest/jetbrains.md)**
 </h3>
 
-<div markdown class="centered">
-<div class="content" markdown>
+![type:video](https://www.youtube.com/embed/BYzwkzx7XpI?si=Zlay8LbvBd5OTMzs){ align=right}
 
+
+<div class="centered" markdown>
 # **Threads** support!
+</div>
 
-
+<div class="left-padding" markdown>
 Threads are a dynamic tool in Codiumate designed to enhance your interactions with the AI. This feature enables you to dive deeper into discussions, refine responses, and extend conversations to achieve more targeted outcomes. 
 
 Through Threads, you can iteratively adjust results, seek additional insights, or steer dialogues toward more precise conclusions. 
@@ -58,21 +61,18 @@ Activate a thread by clicking the `Continue this Chat` button at the end of a re
 
 **[Learn more about Threads](https://codiumate-docs.codium.ai/chat/threads/)**
 
-**See what you can do with Threads in this video:**
-![type:video](https://www.youtube.com/embed/BYzwkzx7XpI?si=Zlay8LbvBd5OTMzs)
-
-</div>
 </div>
 </div>
 
 <div markdown class="bg-yellow">
 
+
 <h3 markdown class="top-left">
 
 **[<b class="white">:fontawesome-solid-robot:</b> PR<b class="green">-</b>Agent | v0.21](./versions/latest/pr-agent.md)**
 </h3>
+
 <div markdown class="centered">
-<div class="content" markdown>
 
 ## Continous Improvment 🚀
 
@@ -82,7 +82,7 @@ If you haven't seen yet, we have a **[new documentation portal](https://pr-agent
 
 --- 
 
-<div class="left" markdown>
+<div class="left-padding" markdown>
 
 ## Recent changes
 
@@ -92,12 +92,7 @@ If you haven't seen yet, we have a **[new documentation portal](https://pr-agent
 - Added `Similar Code` tool, which searches similar code in GitHub or inside your organization, using keyworkds. **[Read more](https://pr-agent-docs.codium.ai/tools/similar_code/)**.
 
 </div>
-**See how Similar Code looks like:**
-
-
-![Similar Code](./versions/2024-03-28/assets/pr-agent-similar-code.png){ width="700" }
-
-</div>
+![Similar Code](./versions/2024-03-28/assets/pr-agent-similar-code.png){ width="700"}
 </div>
 </div>
 
@@ -116,5 +111,6 @@ If you haven't seen yet, we have a **[new documentation portal](https://pr-agent
 
 </div>
 
+</div>
 </div>
 </div>

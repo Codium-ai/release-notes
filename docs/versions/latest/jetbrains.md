@@ -5,12 +5,15 @@ hide:
 title: Codiumate JetBrains Release Notes
 subtitle: Codiumate plugin for JetBrains v0.7.30 Release Notes
 ---
+<div class="content" markdown>
+<div class="bg-clear" markdown>
 
 <div markdown class="centered">
-![](../../assets/JetBrains%20release%20notes.png){ class="no-border"}
+![](../../assets/jetbrains.png){ class="no-border"}
 
 ### v0.7.30 | April 10, 2024
----
+
+<div markdown class="bg-yellow">
 
 <div markdown class="content">
 # Introducing: **Threads**
@@ -33,7 +36,7 @@ Activate a thread by clicking the `Continue this Chat` button at the end of a re
 
 See what you can do with Threads in this video:
 
-![type:video](https://www.youtube.com/embed/BYzwkzx7XpI?si=Zlay8LbvBd5OTMzs)
+![type:video](https://www.youtube.com/embed/BYzwkzx7XpI?si=Zlay8LbvBd5OTMzs){: style='width: 60%; height: 30.172vw'}
 
 ---
 
@@ -66,7 +69,6 @@ We have expanded the command repertoire in Codiumate Chat’s File Mode:
 ---
 
 
-
 ## What’s Next?
 
 !!! file "File Mode Commands"
@@ -84,5 +86,8 @@ We have expanded the command repertoire in Codiumate Chat’s File Mode:
 
 ### **[Read CodiumAI Release Notes Digest](../../index.md)**
 
+</div>
+</div>
+</div>
 </div>
 </div>
