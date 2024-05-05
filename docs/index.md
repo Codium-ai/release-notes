@@ -13,59 +13,42 @@ description: Latest release notes of Codiumate and PR-Agent
 </div>
 </div>
 
-<div markdown class="bg-yellow">
+<!-- JB -->
+
+<div markdown class="bg-jb">
 <h3 markdown class="top-left">
 
-**[<b class="white">:simple-visualstudiocode:</b> Codiumate<b class="green">:</b>VSCode | v0.8.3](./versions/latest/vscode.md)**
-
+**[<b class="white">:simple-jetbrains:</b> Codiumate<b class="green">:</b>JetBrains | v0.7.34](./versions/latest/jetbrains.md)**
 </h3>
 
+![type:video](https://www.youtube.com/embed/EjrgjBOLPGc?si=6ls9f4MMLuOKcayn){ align=right}
 
-![type:video](https://www.youtube.com/embed/dUHkNK1OD2g?si=lq79WESITHMukQRq){ align=left}
 
 <div class="centered" markdown>
-# Chat Just Got Smarter with **Image Integration**
+# **Full Chat** support!
 </div>
 
 <div class="left-padding" markdown>
 
-Now you can simply paste images right into the chat in both Free Chat and our new Coding Agent! 
+Codiumate plugin now supports comprehensive chat functionalities in JetBrains! This includes workspace mode, file mode, and free chat, supporting all commands to streamline your coding sessions.
 
-This cool new feature lets you ask questions about the images you upload. Want the HTML code for a design? Just upload the image. Got a UML diagram? Let the Coding Agent map it out for you.
+**What can you do with Codiumate Chat?**
 
-It’s all about making your chat experience as helpful and interactive as possible.
-Dive in and see what you can create!
+📄 File Mode - Choose any code in your project and explore the different commands - explain the code, improve the quality, write tests, add docstring, and more.
 
-</div>
-</div>
+🗂️ Workspace Mode - Choose a changeset (local or committed changes) and improve your code before you commit or push - get a recap of your changes, find and fix issues in your diff, get a code review, update the changelog, and more.
 
-<div markdown class="bg-green">
-<h3 markdown class="top-left">
-
-**[<b class="white">:simple-jetbrains:</b> Codiumate<b class="green">:</b>JetBrains | v0.7.30](./versions/latest/jetbrains.md)**
-</h3>
-
-![type:video](https://www.youtube.com/embed/BYzwkzx7XpI?si=Zlay8LbvBd5OTMzs){ align=right}
+💬 Free Chat - Chat about any code-related subject, with your code as context.
 
 
-<div class="centered" markdown>
-# **Threads** support!
-</div>
-
-<div class="left-padding" markdown>
-Threads are a dynamic tool in Codiumate designed to enhance your interactions with the AI. This feature enables you to dive deeper into discussions, refine responses, and extend conversations to achieve more targeted outcomes. 
-
-Through Threads, you can iteratively adjust results, seek additional insights, or steer dialogues toward more precise conclusions. 
-
-Activate a thread by clicking the `Continue this Chat` button at the end of a response to develop initial answers into fully fleshed-out solutions.
-
-**[Learn more about Threads](https://codiumate-docs.codium.ai/chat/threads/)**
+**[Learn more about Codiumate Chat](https://codiumate-docs.codium.ai/chat/)**
 
 </div>
 </div>
 
-<div markdown class="bg-yellow">
+<!-- PR-Agent -->
 
+<div markdown class="bg-vscode">
 
 <h3 markdown class="top-left">
 
@@ -74,30 +57,56 @@ Activate a thread by clicking the `Continue this Chat` button at the end of a re
 
 <div markdown class="centered">
 
-## Continous Improvment 🚀
+# PR-Agent **Chrome Extension** 🕵️‍♂️
 
-As always, our PR-Agent open-source is getting better and better and has more capabilities, with the great help from our **dear contributors**.
 
-If you haven't seen yet, we have a **[new documentation portal](https://pr-agent-docs.codium.ai/)** that contains all the information you need to know about installing and working with PR-Agent.
+![type:video](https://www.youtube.com/embed/gT5tli7X4H4?si=OLuud-51eoboJN1T){ align=left}
 
---- 
 
 <div class="left-padding" markdown>
 
-## Recent changes
+To make your PR review process smoother and more efficient, we’ve launched a new Chrome extension for PR-Agent, designed for GitHub repositories where PR-Agent is installed. 
 
-- Added support for Bedrock Claude3 models in the AI handlers.
-- Added an option to ignore pull requests opend by bots such as `renovate[bot]`.
-- PR-Agent is now available to be installed via pip! Add Pypi support for PR Agent. **[Read More](https://test.pypi.org/project/pr-agent/)**.
-- Added `Similar Code` tool, which searches similar code in GitHub or inside your organization, using keyworkds. **[Read more](https://pr-agent-docs.codium.ai/tools/similar_code/)**.
+This extension adds a convenient toolbar above the PR comment section, giving you quick access to all PR-Agent tools. 
+
+You can now customize settings for each tool directly from this toolbar.
+
+**Key Features:**
+
+- Conveniently access a variety of PR-Agent tools directly from the comment section on your pull request page.
+- Streamlined Configuration Export: Effortlessly export your preferred PR-Agent settings to a configuration file, which can be applied at either the repository or organizational level for seamless team-wide adoption.
+- Supported tools: `\describe`, `\review`, `\improve`, `\ask`, `\update_changelog`, `\docs`, `\analyze`, `\actions`
+
+
+<div markdown class="centered">
+**[Download Chrome Extension](https://chromewebstore.google.com/detail/pr-agent-chrome-extension/ephlnjeghhogofkifjloamocljapahnl)**
+</div>
 
 </div>
-![Similar Code](./versions/2024-03-28/assets/pr-agent-similar-code.png){ width="700"}
 </div>
 </div>
 
+<!-- VSCODE -->
+
+<!-- <div markdown class="bg-jb">
+<h3 markdown class="top-left">
+
+**[<b class="white">:simple-visualstudiocode:</b> Codiumate<b class="green">:</b>VSCode | v0.8.3][def]**
+
+</h3>
+
+<div class="centered" markdown>
+# Chat Just Got Smarter with **Image Integration**
+</div>
+
+<div class="left-padding" markdown>
 
 
+</div>
+</div> -->
+
+
+<!-- FOOTER -->
 
 <div class="centered" markdown>
 ### Read full Release Notes:
@@ -106,10 +115,13 @@ If you haven't seen yet, we have a **[new documentation portal](https://pr-agent
 <div class="grid cards" markdown>
 
 - [<b class="white">:simple-jetbrains:</b> **<b class="green">Codiumate<b class="purple">:</b>JetBrains**</b>](./versions/latest/jetbrains.md)
-- [<b class="white">:simple-visualstudiocode:</b> **<b class="green">Codiumate<b class="purple">:</b>VSCode**</b> ](./versions/latest/vscode.md)
+- [<b class="white">:simple-visualstudiocode:</b> **<b class="green">Codiumate<b class="purple">:</b>VSCode**</b> ][def]
 - [<b class="white">:fontawesome-solid-robot:</b> **<b class="green">PR<b class="purple">-</b>Agent**</b> ](./versions/latest/pr-agent.md)
 
 
 </div>
 </div>
 </div>
+
+
+[def]: ./versions/latest/vscode.md

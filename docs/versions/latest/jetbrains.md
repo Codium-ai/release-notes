@@ -11,74 +11,71 @@ subtitle: Codiumate plugin for JetBrains v0.7.30 Release Notes
 <div markdown class="centered">
 ![](../../assets/jetbrains.png){ class="no-border"}
 
-### v0.7.30 | April 10, 2024
+### v0.7.34 | May 5, 2024
 
-<div markdown class="bg-yellow">
+<div markdown class="bg-vscode">
 
 <div markdown class="content">
-# Introducing: **Threads**
+# Full **Chat Support**
 
-We are excited to announce a new feature that many of you have eagerly anticipated:
-
-#### The Threads functionality is now available in the Codiumate Chat plugin for JetBrains!
-🎉🎉🎉
-
-### What are **Threads**?
-
-Threads are a dynamic tool in Codiumate designed to enhance your interactions with the AI. This feature enables you to dive deeper into discussions, refine responses, and extend conversations to achieve more targeted outcomes. 
-
-Through Threads, you can iteratively adjust results, seek additional insights, or steer dialogues toward more precise conclusions. 
-
-Activate a thread by clicking the `Continue this Chat` button at the end of a response to develop initial answers into fully fleshed-out solutions.
+We are excited to announce that Codiumate:Chat for Jetrains now supports all modes and commands!
 
 
-**[Learn more about Threads](https://codiumate-docs.codium.ai/chat/threads/)**
+After much hard work, we're proud to say that we now support all three modes and all the commands in Codiumate Chat for JetBrains! 
 
-See what you can do with Threads in this video:
-
-![type:video](https://www.youtube.com/embed/BYzwkzx7XpI?si=Zlay8LbvBd5OTMzs){: style='width: 60%; height: 30.172vw'}
-
----
-
-# Enhanced **Command** Support
-
-We have expanded the command repertoire in Codiumate Chat’s File Mode:
+## **What can you do with Codiumate Chat?**
 
 
 
 <div class="grid cards" markdown>
 
--   :material-lightning-bolt:{ .lg .middle } `/quick-test`
+-   :fontawesome-solid-file-lines:{ .lg .middle } File Mode
 
     ---
 
-    Initiates an interactive, iterative mode to generate essential test suites swiftly, targeting key functionalities. This is a streamlined alternative to the more exhaustive `/test-suite` command.
+    Choose any code in your project and explore the different commands - explain the code, improve the quality, write tests, add docstring, and more.
 
-    [:octicons-arrow-right-24: Read More](https://codiumate-docs.codium.ai/chat/commands/find-on-github/)
+    [:octicons-arrow-right-24: Read More](https://codiumate-docs.codium.ai/chat/modes/file-mode/)
 
--   :material-github:{ .lg .middle } `/find-on-github`
+-   :fontawesome-solid-folder-tree:{ .lg .middle } Workspace Mode
 
     ---
 
-    This command integrates your coding environment with the expansive universe of GitHub’s open-source projects. It allows you to select a code snippet and find similar code in GitHub repositories.
+    Choose a changeset (local or committed changes) and improve your code before you commit or push - get a recap of your changes, find and fix issues in your diff, get a code review, update the changelog, and more.
 
-    [:octicons-arrow-right-24: Read More](https://codiumate-docs.codium.ai/chat/commands/quick-test/)
+
+    [:octicons-arrow-right-24: Read More](https://codiumate-docs.codium.ai/chat/modes/workspace-mode/)
+
+-   :fontawesome-solid-comment-dots:{ .lg .middle } Free Chat Mode
+
+    ---
+
+    Chat about any code-related subject, with your code as context.
+
+
+    [:octicons-arrow-right-24: Read More](https://codiumate-docs.codium.ai/chat/modes/free-chat/)
+
 
 </div>
+
+You can always click "Continue this chat" in the response to explore further and add more requests.
+
+You can add more context to the chat by selecting the code, right-clicking on it, and selecting "Add to Codiumate as context."
+
+### **[Read more about Codiumate:Chat](https://codiumate-docs.codium.ai/chat/)**
+
+![type:video](https://www.youtube.com/embed/EjrgjBOLPGc?si=6ls9f4MMLuOKcayn){: style='width: 60%; height: 30.172vw'}
 
 ---
 
 
 ## What’s Next?
 
-!!! file "File Mode Commands"
-    We plan to integrate additional commands such as `/enhance` and `/improve` into our File Mode chat.
+!!! code "Code Completion"
+    We're working on adding Code Completion to Codiumate:JetBrains, stay tuned!
 
-!!! folder "Workspace Modes"
-    Further enhancements to Workspace Mode are on the horizon, with a focus on Local Changes as well as Committed Changes, enabling you to review modifications before pushing them to your branch.
-
-!!! command "Workspace Mode Commands"
-    We are also developing new commands for Workspace Mode, including `/issues` and `/recap`.
+!!! folder "Project Context"
+    We're adding an option to add your entire project, or any selected folder, as context to the chat and test generation.
 
 **Stay Tuned!**
 

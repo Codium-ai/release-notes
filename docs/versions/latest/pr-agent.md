@@ -6,35 +6,45 @@ hide:
 
 <div markdown class="centered">
 ![](../../assets/pr-agent.png){ class="no-border"}
-### v0.21 | March 28, 2024
+### v0.21 | May 5, 2024
 ---
 
 <div class="content" markdown>
-<div class="bg-yellow" markdown>
+<div class="bg-vscode" markdown>
 <div class="content" markdown>
 
-# Continous Improvment 🚀
+# PR-Agent **Chrome Extension** 🕵️‍♂️
 
-As always, our PR-Agent open-source is getting better and better and has more capabilities, with the great help from our **dear contributors**.
+To make your PR review process smoother and more efficient, we’ve launched a new Chrome extension for PR-Agent, designed for GitHub repositories where PR-Agent is installed. 
 
-If you haven't seen yet, we have a **[new documentation portal](https://pr-agent-docs.codium.ai/)** that contains all the information you need to know about installing and working with PR-Agent.
+This extension adds a convenient toolbar above the PR comment section, giving you quick access to all PR-Agent tools. 
 
----
+You can now customize settings for each tool directly from this toolbar.
 
-<div class="left" markdown>
-## Recent changes
+## **Key Features:**
 
-- Added support for Bedrock Claude3 models in the AI handlers.
-- Added an option to ignore pull requests opend by bots such as `renovate[bot]`.
-- PR-Agent is now available to be installed via pip! Add Pypi support for PR Agent. **[Read More](https://test.pypi.org/project/pr-agent/)**.
-- Added `Similar Code` tool, which searches similar code in GitHub or inside your organization, using keyworkds. **[Read more](https://pr-agent-docs.codium.ai/tools/similar_code/)**.
+
+<div class="left-padding" markdown>
+
+- Conveniently access a variety of PR-Agent tools directly from the comment section on your pull request page.
+- Streamlined Configuration Export: Effortlessly export your preferred PR-Agent settings to a configuration file, which can be applied at either the repository or organizational level for seamless team-wide adoption.
+- Supported tools:
+    - 📝 Describe: Generate a description for the PR - title, type, summary, walkthrough and labels
+    - 🔍 Review: Provide various feedbacks on the PR such as possible issues, security concerns, and more
+    - ✨ Improve: Generate code suggestions, focusing on possible issues, efficiency, best practices, and more'
+    - ❓ Ask: Answer questions about the PR, based on the PR code changes
+    - 🔄 Update Change Log: Automatically update the CHANGELOG.md file based on the PR code changes
+    - 📚 Docs 💎:  Suggest documentation for any code components that changed in the PR
+    - 🔬 Analyze 💎: Identifies code components that changed in the PR, and enables to interactively trigger relevant tools
+    - 🚦 Actions 💎: Receives a URL of a failed Github action, and analyzes why the process failed
 
 </div>
-<br/>
-**See how Similar Code looks like:**
 
+<div markdown class="centered">
+### **[Download Chrome Extension](https://chromewebstore.google.com/detail/pr-agent-chrome-extension/ephlnjeghhogofkifjloamocljapahnl)**
 
-![Similar Code](../2024-03-28/assets/pr-agent-similar-code.png){ width="700" }
+![type:video](https://www.youtube.com/embed/gT5tli7X4H4?si=OLuud-51eoboJN1T){: style='width: 60%; height: 30.172vw'}
+</div>
 
 ---
 
