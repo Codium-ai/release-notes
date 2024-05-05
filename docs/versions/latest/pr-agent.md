@@ -7,7 +7,6 @@ hide:
 <div markdown class="centered">
 ![](../../assets/pr-agent.png){ class="no-border"}
 ### v0.21 | May 5, 2024
----
 
 <div class="content" markdown>
 <div class="bg-blue" markdown>
