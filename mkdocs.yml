@@ -37,7 +37,7 @@ theme:
         icon: material/brightness-auto
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default
+      scheme: slate
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
