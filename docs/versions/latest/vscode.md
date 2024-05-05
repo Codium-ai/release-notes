@@ -12,7 +12,7 @@ subtitle: Codiumate plugin for JetBrains v0.7.30 Release Notes
 ### v0.8.3 | April 10, 2024
 
 <div class="content" markdown>
-<div class="bg-vscode" markdown>
+<div class="bg-blue" markdown>
 <div class="content" markdown>
 
 

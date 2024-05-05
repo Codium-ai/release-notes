@@ -15,7 +15,7 @@ description: Latest release notes of Codiumate and PR-Agent
 
 <!-- JB -->
 
-<div markdown class="bg-jb">
+<div markdown class="bg-blue">
 <h3 markdown class="top-left">
 
 **[<b class="white">:simple-jetbrains:</b> Codiumate<b class="green">:</b>JetBrains | v0.7.34](./versions/latest/jetbrains.md)**
@@ -48,7 +48,7 @@ Codiumate plugin now supports comprehensive chat functionalities in JetBrains! T
 
 <!-- PR-Agent -->
 
-<div markdown class="bg-vscode">
+<div markdown class="bg-black">
 
 <h3 markdown class="top-left">
 
@@ -88,7 +88,7 @@ You can now customize settings for each tool directly from this toolbar.
 
 <!-- VSCODE -->
 
-<!-- <div markdown class="bg-jb">
+<!-- <div markdown class="bg-blue">
 <h3 markdown class="top-left">
 
 **[<b class="white">:simple-visualstudiocode:</b> Codiumate<b class="green">:</b>VSCode | v0.8.3][def]**
@@ -104,6 +104,47 @@ You can now customize settings for each tool directly from this toolbar.
 
 </div>
 </div> -->
+
+
+<!-- FOOTER -->
+
+<!-- What's cooking -->
+
+<div markdown class="bg-blue">
+
+<h3 markdown class="top-left">
+
+
+</h3>
+
+
+<div class="centered" markdown>
+# What's **Cooking**?
+
+<div class="left-padding" markdown>
+!!! vscode "Codiumate:VSCode >> Project Context"
+      We are working on adding another level of chat context - **Project Level Context**. This will enable you to add any folder as a context to the chat, and even you're entire project!
+      
+      This functionality will help you ask any question about your project, search for implementations inside your project and improve the results of all the commands and generated tests. 
+
+      **Stay tuned!**
+
+!!! jetbrains "Codiumate:JetBrains >> Code Completion"
+    Code Completion is already available for Codiumate:VSCode, and we're diligently integrating it into Codiumate:JetBrains for an enhanced coding experience. 
+    
+    Our Code Completion feature is designed to expedite your coding process by intelligently analyzing code context and intentions. It seamlessly suggests relevant code snippets, allowing you to swiftly accept them with a simple tab click.
+
+    **[Read More about Code Completion](https://codiumate-docs.codium.ai/code-completion/)**
+
+
+!!! pr-agent "PR-Agent >> Chrome-Extension"
+    The first PR-Agent Chrome Extension was released this week, next we're planning to add support for other Git providers and add more capabilities to watch PR-Agent responses inside the extension.
+
+
+</div>
+</div>
+
+</div>
 
 
 <!-- FOOTER -->

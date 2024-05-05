@@ -10,7 +10,7 @@ hide:
 ---
 
 <div class="content" markdown>
-<div class="bg-vscode" markdown>
+<div class="bg-blue" markdown>
 <div class="content" markdown>
 
 # PR-Agent **Chrome Extension** 🕵️‍♂️
