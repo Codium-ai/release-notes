@@ -8,7 +8,7 @@ description: Latest release notes of Codiumate and PR-Agent
 <div class="content" markdown>
 <div class="bg-clear" markdown>
 <div markdown class="centered">
-### April 10, 2024
+### May 5, 2024
 ![](./assets/title.png){ class="no-border";}
 </div>
 </div>
