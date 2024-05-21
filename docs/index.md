@@ -8,14 +8,84 @@ description: Latest release notes of Codiumate and PR-Agent
 <div class="content" markdown>
 <div class="bg-clear" markdown>
 <div markdown class="centered">
-### May 5, 2024
+### May 21, 2024
 ![](./assets/title.png){ class="no-border";}
 </div>
 </div>
 
-<!-- JB -->
+<!-- COVER-AGENT -->
 
 <div markdown class="bg-blue">
+<h3 markdown class="top-left">
+
+**[<b class="white">:simple-visualstudiocode:</b> Cover<b class="green">-</b>Agent | v0.1]()**
+
+</h3>
+
+<div class="centered" markdown>
+# Introducing [**Cover-Agent**](https://github.com/Codium-ai/cover-agent)!
+
+### We're excited to announce  [**Cover-Agent**](https://github.com/Codium-ai/cover-agent) - our new open-source tool to simplify increasing test coverage!
+
+![type:video](https://www.youtube.com/embed/fIYkSEJ4eqE?si=vp5SnbQOPJp9Ak51){: style='width: 50%; height: 25.172vw'}
+
+
+<div class="grid cards" markdown>
+
+-   🔍 Boost Your Tests
+
+    ---
+
+    Say goodbye to the monotony of managing test coverage. With Cover-Agent, you can effortlessly handle essential tasks, starting with regression tests, to ensure your codebase remains robust and well-tested.
+
+-   🧠 Advanced AI
+
+    ---
+
+    Inspired by Meta’s TestGen-LLM, Cover-Agent ensures generated tests compile, run properly, and add value.
+
+-   🌟 Contribute and Collaborate
+
+    ---
+
+    As an open-source project, we invite you to contribute and help us enhance  [**Cover-Agent**](https://github.com/Codium-ai/cover-agent). Your input is invaluable in refining this tool to meet the real-world needs of developers like you.
+
+</div>
+
+Discover more about Cover-Agent in our detailed [**blog post**](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
+
+[Explore Cover-Agent](https://github.com/Codium-ai/cover-agent){ .md-button }
+
+
+</div>
+
+</div>
+
+<!-- VSCode -->
+
+<!-- <div markdown class="bg-black">
+<h3 markdown class="top-left">
+
+**[<b class="white">:simple-visualstudiocode:</b> Codiumate<b class="green">:</b>VSCode | v0.8.3][def]**
+</h3>
+
+
+
+<div class="centered" markdown>
+</div>
+
+<div class="left-padding" markdown>
+
+
+</div>
+</div> -->
+
+
+
+
+<!-- JB -->
+
+<div markdown class="bg-black">
 <h3 markdown class="top-left">
 
 **[<b class="white">:simple-jetbrains:</b> Codiumate<b class="green">:</b>JetBrains | v0.7.34](./versions/latest/jetbrains.md)**
@@ -48,7 +118,7 @@ Codiumate plugin now supports comprehensive chat functionalities in JetBrains! T
 
 <!-- PR-Agent -->
 
-<div markdown class="bg-black">
+<div markdown class="bg-blue">
 
 <h3 markdown class="top-left">
 
@@ -86,31 +156,11 @@ You can now customize settings for each tool directly from this toolbar.
 </div>
 </div>
 
-<!-- VSCODE -->
-
-<!-- <div markdown class="bg-blue">
-<h3 markdown class="top-left">
-
-**[<b class="white">:simple-visualstudiocode:</b> Codiumate<b class="green">:</b>VSCode | v0.8.3][def]**
-
-</h3>
-
-<div class="centered" markdown>
-# Chat Just Got Smarter with **Image Integration**
-</div>
-
-<div class="left-padding" markdown>
-
-
-</div>
-</div> -->
-
-
 <!-- FOOTER -->
 
 <!-- What's cooking -->
 
-<div markdown class="bg-blue">
+<div markdown class="bg-black">
 
 <h3 markdown class="top-left">
 
