@@ -9,41 +9,45 @@ subtitle: Codiumate plugin for JetBrains v0.7.30 Release Notes
 <div class="centered" markdown>
 ![](../../assets/vscode.png){ class="no-border"}
 
-### v0.8.3 | April 10, 2024
+### v0.9 | May 30, 2024
 
 <div class="content" markdown>
 <div class="bg-blue" markdown>
 <div class="content" markdown>
 
+###
+# New Chat Interface with **Project Context**!
 
-# Chat Just Got Smarter with **Image Integration**
+We're excited to unveil Codiumate v0.9, which introduces a sleek, redesigned interface and enhanced **project indexing capabilities**. This update makes navigating and using Codiumate Chat more intuitive and user-friendly, allowing you to quickly select your coding focus with new shortcuts like `@` and the `+` button. 
 
-Now you can simply paste images right into the chat in both Free Chat and our new Coding Agent! This cool new feature lets you ask questions about the images you upload. Want the HTML code for a design? Just upload the image. Got a UML diagram? Let the Coding Agent map it out for you. 
+We've also expanded the ways you can add context to your requests—now including code snippets, files, folders, or your entire project, ensuring responses are precisely tailored to your needs. Additionally, the new coding-agent can be activated with just a click, providing expert assistance tailored to your coding challenges. 
 
-It’s all about making your chat experience as helpful and interactive as possible. 
+<div class="left-padding" markdown>
+### **🤩 See how it looks:**
+</div>
+#### Choose focus
+![](current-file.gif){width=70%}
 
-Dive in and see what you can create!
+#### Add Extra Context
+![](extra-context.gif){width=70%}
 
-**Check out this demo:**
-
-![type:video](https://www.youtube.com/embed/dUHkNK1OD2g?si=lq79WESITHMukQRq){: style='width: 60%; height: 30.172vw'}
 
 --- 
 
-# Coding-Agent 
+## Using **GPT-4o** in Test Generation
 
-Last week we have released our new **[Coding-Agent](../2024-04-04/index.md)** in our VSCode extension, and we are excited to see how many of you have already tried it out! We hope that this new feature will make your coding experience even more efficient and enjoyable.
+The latest update to Codiumate incorporates GPT-4o, an advanced iteration of the Generative Pre-trained Transformer model, to revolutionize the way we generate tests. This integration significantly enhances our ability to produce intelligent, context-aware test suggestions. With GPT-4o, developers can expect more refined and accurate test cases, which are crucial for maintaining high-quality software. 
 
-This week we improved our Coding-Agent, fixed some issues around it, and we're going to improve it even more in the upcoming weeks. 
+--- 
+
+## Adding **Vitest** Framework to Supported Frameworks List
+
+After much anticipation, we are thrilled to announce the addition of the Vitest framework to Codiumate's list of supported testing frameworks in JavaScript and TypeScript. Vitest, a modern testing framework tailored for JavaScript environments, aligns perfectly with the needs of contemporary developers. 
+
+--- 
+
 **Stay tuned for more updates!**
 
----
-<div markdown class="left">
-## Bug fixes
-
-- We resolved an issue in the thread where it previously stopped responding.
-- We also fixed a problem in a thread involving code, where the thread was losing the initial context.
-</div>
 ---
 
 ### **[Read CodiumAI Release Notes Digest](../../index.md)**

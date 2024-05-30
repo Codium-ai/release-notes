@@ -12,6 +12,8 @@ hide:
 <div class="bg-blue" markdown>
 <div class="content" markdown>
 
+
+
 # PR-Agent **Chrome Extension** 🕵️‍♂️
 
 To make your PR review process smoother and more efficient, we’ve launched a new Chrome extension for PR-Agent, designed for GitHub repositories where PR-Agent is installed. 
