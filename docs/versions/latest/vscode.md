@@ -22,9 +22,9 @@ We're excited to unveil Codiumate v0.9, which introduces a sleek, redesigned int
 
 We've also expanded the ways you can add context to your requests—now including code snippets, files, folders, or your entire project, ensuring responses are precisely tailored to your needs. Additionally, the new coding-agent can be activated with just a click, providing expert assistance tailored to your coding challenges. 
 
-<div class="left-padding" markdown>
+
 ### **🤩 See how it looks:**
-</div>
+
 #### Choose focus
 ![](current-file.gif){width=70%}
 

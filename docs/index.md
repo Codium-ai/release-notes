@@ -8,10 +8,42 @@ description: Latest release notes of Codiumate and PR-Agent
 <div class="content" markdown>
 <div class="bg-clear" markdown>
 <div markdown class="centered">
-### May 21, 2024
+### May 30, 2024
 ![](./assets/title.png){ class="no-border";}
 </div>
 </div>
+
+<!-- VSCode -->
+
+<div markdown class="bg-black">
+<h3 markdown class="top-left">
+**[<b class="white">:simple-visualstudiocode:</b> Codiumate<b class="green">:</b>VSCode | v0.9][def]**
+</h3>
+
+<div class="centered" markdown>
+We're excited to unveil Codiumate v0.9, featuring a **redesigned interface**, enhanced project indexing, and intuitive navigation with new shortcuts like `@` and the + button. You can now add context to your requests with code snippets, files, folders, or **entire projects**, and activate the new coding-agent with a click for expert assistance. 
+
+The update also incorporates **GPT-4o** for smarter test generation and adds the **Vitest framework** to our supported testing frameworks for JavaScript and TypeScript. 
+
+**[Read More](./versions/latest/vscode.md)**
+
+### **🤩 See how it looks:**
+
+#### Choose focus
+![](./versions/latest/current-file.gif){width=50%}
+
+#### Add Extra Context
+![](./versions/latest/extra-context.gif){width=50%}
+
+
+</div>
+
+<div class="left-padding" markdown>
+
+
+</div>
+</div>
+
 
 <!-- COVER-AGENT -->
 
@@ -60,27 +92,6 @@ Discover more about Cover-Agent in our detailed [**blog post**](https://www.codi
 </div>
 
 </div>
-
-<!-- VSCode -->
-
-<!-- <div markdown class="bg-black">
-<h3 markdown class="top-left">
-
-**[<b class="white">:simple-visualstudiocode:</b> Codiumate<b class="green">:</b>VSCode | v0.8.3][def]**
-</h3>
-
-
-
-<div class="centered" markdown>
-</div>
-
-<div class="left-padding" markdown>
-
-
-</div>
-</div> -->
-
-
 
 
 <!-- JB -->
