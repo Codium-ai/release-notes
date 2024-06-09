@@ -6,46 +6,61 @@ hide:
 
 <div markdown class="centered">
 ![](../../assets/pr-agent.png){ class="no-border"}
-### v0.21 | May 5, 2024
+### v0.22 | May 30, 2024
 
 <div class="content" markdown>
 <div class="bg-blue" markdown>
 <div class="content" markdown>
 
+##
+# Apply Code Suggestion with **One Click**
+
+In the latest PR-Agent Pro we've introduced a new way of improving your code - 
+
+You can now Interactively convert a specific suggestion to a committable one, with just checking the check-box inside each suggesion!
+
+**Check it out:**
+
+#### Select the check-box of the desired suggestion:
+![](./improve-1.png)
+
+#### A committable comment will be added to your diff:
+![](./improve-2.png)
 
 
-# PR-Agent **Chrome Extension** 🕵️‍♂️
+---
 
-To make your PR review process smoother and more efficient, we’ve launched a new Chrome extension for PR-Agent, designed for GitHub repositories where PR-Agent is installed. 
 
-This extension adds a convenient toolbar above the PR comment section, giving you quick access to all PR-Agent tools. 
-
-You can now customize settings for each tool directly from this toolbar.
-
-## **Key Features:**
+# **Chrome Extension** v1.15 🕵️‍♂️
 
 
 <div class="left-padding" markdown>
 
-- Conveniently access a variety of PR-Agent tools directly from the comment section on your pull request page.
-- Streamlined Configuration Export: Effortlessly export your preferred PR-Agent settings to a configuration file, which can be applied at either the repository or organizational level for seamless team-wide adoption.
-- Supported tools:
-    - 📝 Describe: Generate a description for the PR - title, type, summary, walkthrough and labels
-    - 🔍 Review: Provide various feedbacks on the PR such as possible issues, security concerns, and more
-    - ✨ Improve: Generate code suggestions, focusing on possible issues, efficiency, best practices, and more'
-    - ❓ Ask: Answer questions about the PR, based on the PR code changes
-    - 🔄 Update Change Log: Automatically update the CHANGELOG.md file based on the PR code changes
-    - 📚 Docs 💎:  Suggest documentation for any code components that changed in the PR
-    - 🔬 Analyze 💎: Identifies code components that changed in the PR, and enables to interactively trigger relevant tools
-    - 🚦 Actions 💎: Receives a URL of a failed Github action, and analyzes why the process failed
+The new PR-Agent Chrome Extension version now added 2 new features:
+
+1. PR-Agent **Filters** - Easily switch between PR-Agent comments, Non-PR-Agent comments, and all comments to focus on what matters.
+
+2. **Enhanced** Code Suggestions - Use the new quote button to add specific code suggestions as comments and tag your teammates for seamless collaboration.
 
 </div>
 
 <div markdown class="centered">
 ### **[Download Chrome Extension](https://chromewebstore.google.com/detail/pr-agent-chrome-extension/ephlnjeghhogofkifjloamocljapahnl)**
 
-![type:video](https://www.youtube.com/embed/gT5tli7X4H4?si=OLuud-51eoboJN1T){: style='width: 60%; height: 30.172vw'}
+![type:video](https://www.youtube.com/embed/v9bJ1frtPcg?si=8dgarF21BWqKBjr9){: style='width: 60%; height: 30.172vw'}
 </div>
+
+---
+
+## **What's next** for PR-Agent Chrome Extension?
+
+<div class="left-padding" markdown>
+
+- A private chat panel inside your PR, to chat about any topic related to your PR.
+- A private chat panel inside your project, which indexes your full project and lets you chat and ask any question about your code.
+
+</div>
+
 
 ---
 

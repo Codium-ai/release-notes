@@ -99,7 +99,7 @@ Discover more about Cover-Agent in our detailed [**blog post**](https://www.codi
 <div markdown class="bg-black">
 <h3 markdown class="top-left">
 
-**[<b class="white">:simple-jetbrains:</b> Codiumate<b class="green">:</b>JetBrains | v0.7.34](./versions/latest/jetbrains.md)**
+**[<b class="white">:simple-jetbrains:</b> Codiumate<b class="green">:</b>JetBrains | v0.7.38](./versions/latest/jetbrains.md)**
 </h3>
 
 ![type:video](https://www.youtube.com/embed/EjrgjBOLPGc?si=6ls9f4MMLuOKcayn){ align=right}
@@ -133,30 +133,36 @@ Codiumate plugin now supports comprehensive chat functionalities in JetBrains! T
 
 <h3 markdown class="top-left">
 
-**[<b class="white">:fontawesome-solid-robot:</b> PR<b class="green">-</b>Agent | v0.21](./versions/latest/pr-agent.md)**
+**[<b class="white">:fontawesome-solid-robot:</b> PR<b class="green">-</b>Agent | v0.22](./versions/latest/pr-agent.md)**
 </h3>
 
 <div markdown class="centered">
 
-# PR-Agent **Chrome Extension** 🕵️‍♂️
+
+<div class="left-padding" markdown>
+
+### Apply Code Suggestion with **One Click**
+
+In the latest PR-Agent Pro we've introduced a new way of improving your code:
+
+You can now Interactively convert a specific suggestion to a committable one, with just checking the check-box inside each suggesion!
 
 
-![type:video](https://www.youtube.com/embed/gT5tli7X4H4?si=OLuud-51eoboJN1T){ align=left}
+---
+
+### **Chrome Extension** v1.15 🕵️‍♂️
+
+
+![type:video](https://www.youtube.com/embed/v9bJ1frtPcg?si=8dgarF21BWqKBjr9){ align=left}
 
 
 <div class="left-padding" markdown>
 
-To make your PR review process smoother and more efficient, we’ve launched a new Chrome extension for PR-Agent, designed for GitHub repositories where PR-Agent is installed. 
+### The new PR-Agent Chrome Extension version now added 2 new features:
 
-This extension adds a convenient toolbar above the PR comment section, giving you quick access to all PR-Agent tools. 
+- PR-Agent **Filters** - Easily switch between PR-Agent comments, Non-PR-Agent comments, and all comments to focus on what matters.
 
-You can now customize settings for each tool directly from this toolbar.
-
-**Key Features:**
-
-- Conveniently access a variety of PR-Agent tools directly from the comment section on your pull request page.
-- Streamlined Configuration Export: Effortlessly export your preferred PR-Agent settings to a configuration file, which can be applied at either the repository or organizational level for seamless team-wide adoption.
-- Supported tools: `\describe`, `\review`, `\improve`, `\ask`, `\update_changelog`, `\docs`, `\analyze`, `\actions`
+- **Enhanced** Code Suggestions - Use the new quote button to add specific code suggestions as comments and tag your teammates for seamless collaboration.
 
 
 <div markdown class="centered">
@@ -166,6 +172,7 @@ You can now customize settings for each tool directly from this toolbar.
 </div>
 </div>
 </div>
+
 
 <!-- FOOTER -->
 
@@ -183,13 +190,6 @@ You can now customize settings for each tool directly from this toolbar.
 # What's **Cooking**?
 
 <div class="left-padding" markdown>
-!!! vscode "Codiumate:VSCode >> Project Context"
-      We are working on adding another level of chat context - **Project Level Context**. This will enable you to add any folder as a context to the chat, and even you're entire project!
-      
-      This functionality will help you ask any question about your project, search for implementations inside your project and improve the results of all the commands and generated tests. 
-
-      **Stay tuned!**
-
 !!! jetbrains "Codiumate:JetBrains >> Code Completion"
     Code Completion is already available for Codiumate:VSCode, and we're diligently integrating it into Codiumate:JetBrains for an enhanced coding experience. 
     
@@ -197,10 +197,8 @@ You can now customize settings for each tool directly from this toolbar.
 
     **[Read More about Code Completion](https://codiumate-docs.codium.ai/code-completion/)**
 
-
-!!! pr-agent "PR-Agent >> Chrome-Extension"
-    The first PR-Agent Chrome Extension was released this week, next we're planning to add support for other Git providers and add more capabilities to watch PR-Agent responses inside the extension.
-
+!!! code "Codiumate:Test >> Improved test generation"
+    These days we're working on improving the test quality - starting from a better context selection, project indexing for better mocking and learning from specific language best practices.
 
 </div>
 </div>

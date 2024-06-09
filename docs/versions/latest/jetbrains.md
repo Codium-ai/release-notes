@@ -11,11 +11,12 @@ subtitle: Codiumate plugin for JetBrains v0.7.30 Release Notes
 <div markdown class="centered">
 ![](../../assets/jetbrains.png){ class="no-border"}
 
-### v0.7.34 | May 5, 2024
+### v0.7.38 | May 30, 2024
 
 <div markdown class="bg-blue">
 
 <div markdown class="content">
+##
 # Full **Chat Support**
 
 We are excited to announce that Codiumate:Chat for Jetrains now supports all modes and commands!
@@ -24,7 +25,6 @@ We are excited to announce that Codiumate:Chat for Jetrains now supports all mod
 After much hard work, we're proud to say that we now support all three modes and all the commands in Codiumate Chat for JetBrains! 
 
 ## **What can you do with Codiumate Chat?**
-
 
 
 <div class="grid cards" markdown>
@@ -69,7 +69,20 @@ You can add more context to the chat by selecting the code, right-clicking on it
 ---
 
 
-## What’s Next?
+
+## More **News**
+
+<div class="left-padding" markdown>
+
+- We added more options in inlays (above class/function) with some Chat commands to invoke.
+- Added word-wrap enable/disable button for code blocks in Chat.
+- Improved `/recap` and `/issues` performance.
+
+</div>
+
+--- 
+
+## What’s **Next**?
 
 !!! code "Code Completion"
     We're working on adding Code Completion to Codiumate:JetBrains, stay tuned!
