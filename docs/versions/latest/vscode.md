@@ -5,11 +5,11 @@ hide:
 title: Codiumate VScode Release Notes
 subtitle: Codiumate plugin for JetBrains v0.7.30 Release Notes
 ---
-
+#
 <div class="centered" markdown>
 ![](../../assets/vscode.png){ class="no-border"}
 
-### v0.9 | May 30, 2024
+### v0.9.10 | July 23, 2024
 
 <div class="content" markdown>
 <div class="bg-blue" markdown>

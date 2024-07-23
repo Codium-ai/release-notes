@@ -6,61 +6,47 @@ hide:
 
 <div markdown class="centered">
 ![](../../assets/pr-agent.png){ class="no-border"}
-### v0.22 | May 30, 2024
+### v0.23 | July 23, 2024
 
 <div class="content" markdown>
 <div class="bg-blue" markdown>
 <div class="content" markdown>
+## 
+# PR-Agent **Impact**
 
-##
-# Apply Code Suggestion with **One Click**
 
-In the latest PR-Agent Pro we've introduced a new way of improving your code - 
 
-You can now Interactively convert a specific suggestion to a committable one, with just checking the check-box inside each suggesion!
+### 
 
-**Check it out:**
 
-#### Select the check-box of the desired suggestion:
-![](./improve-1.png)
+We’re excited to introduce a powerful new feature in PR-Agent Pro: the PR-Agent **Impact Report**!
 
-#### A committable comment will be added to your diff:
-![](./improve-2.png)
+<div class="left-padding" markdown>
+
+### What's New?
+
+1. **Impact Report:** Our new impact report showcases a metric that demonstrates how PR-Agent has helped improve the quality of your PRs. This report calculates the number of code suggestions made by PR-Agent that were applied in the PR, providing you with a clear measure of its effectiveness.
+
+2. **Applied Code Suggestions:** Reviewers can now see the applied code suggestions directly within the PR itself. This transparency makes it easier to track changes and understand the improvements made.
+
+</div>
 
 
 ---
 
-
-# **Chrome Extension** v1.15 🕵️‍♂️
-
+# Follow **Best Practices**
 
 <div class="left-padding" markdown>
 
-The new PR-Agent Chrome Extension version now added 2 new features:
+We’re excited to announce a powerful new feature in Codiumate: **Follow Company Best Practices**. This feature introduces a dedicated wiki page, best_practices.md, allowing you to set specific guidelines and standards for your repository or organization. The AI model will use this page to ensure that code suggestions adheres to your best practices, suggesting improvements and applying a dedicated label—"Organization best practice"—when guidelines are not met.
 
-1. PR-Agent **Filters** - Easily switch between PR-Agent comments, Non-PR-Agent comments, and all comments to focus on what matters.
+#### Examples of best practices: 
 
-2. **Enhanced** Code Suggestions - Use the new quote button to add specific code suggestions as comments and tag your teammates for seamless collaboration.
-
-</div>
-
-<div markdown class="centered">
-### **[Download Chrome Extension](https://chromewebstore.google.com/detail/pr-agent-chrome-extension/ephlnjeghhogofkifjloamocljapahnl)**
-
-![type:video](https://www.youtube.com/embed/v9bJ1frtPcg?si=8dgarF21BWqKBjr9){: style='width: 60%; height: 30.172vw'}
-</div>
-
----
-
-## **What's next** for PR-Agent Chrome Extension?
-
-<div class="left-padding" markdown>
-
-- A private chat panel inside your PR, to chat about any topic related to your PR.
-- A private chat panel inside your project, which indexes your full project and lets you chat and ask any question about your code.
+- Clear and Concise Writing: Ensure guidelines are easily understandable.
+- Relevant Code Snippets: Provide short examples to illustrate key points.
+- Document Length: Keep the file up to 800 lines for optimal use.
 
 </div>
-
 
 ---
 
