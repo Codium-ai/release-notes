@@ -50,7 +50,7 @@ We’re excited to announce a powerful new feature in Codiumate: **Follow Compan
 
 ---
 
-### **[Read CodiumAI Release Notes Digest](../../index.md)**
+### [**Read CodiumAI Release Notes Digest**](../../index.md)
 
 
 </div>

@@ -50,7 +50,7 @@ After much anticipation, we are thrilled to announce the addition of the Vitest 
 
 ---
 
-### **[Read CodiumAI Release Notes Digest](../../index.md)**
+### [**Read CodiumAI Release Notes Digest**](../../index.md)
 
 </div>
 </div>

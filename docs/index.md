@@ -22,7 +22,7 @@ description: Latest release notes of Codiumate and PR-Agent
 **[<b class="white">:simple-jetbrains:</b> Codiumate<b class="green">:</b>JetBrains | v0.9](./versions/latest/jetbrains.md)**
 </h3>
 
-<!--![type:video](https://www.youtube.com/embed/EjrgjBOLPGc?si=6ls9f4MMLuOKcayn){ align=right}-->
+![type:video](https://www.youtube.com/embed/kwSiMs6pdcc?si=HSiWwWZKuHFe9V02){ align=right}
 
 
 <div class="centered" markdown>
