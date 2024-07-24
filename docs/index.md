@@ -19,7 +19,7 @@ description: Latest release notes of Codiumate and PR-Agent
 <div markdown class="bg-black">
 <h3 markdown class="top-left">
 
-**[<b class="white">:simple-jetbrains:</b> Codiumate<b class="green">:</b>JetBrains | v0.9.1](./versions/latest/jetbrains.md)**
+**[<b class="white">:simple-jetbrains:</b> Codiumate<b class="green">:</b>JetBrains | v0.9](./versions/latest/jetbrains.md)**
 </h3>
 
 <!--![type:video](https://www.youtube.com/embed/EjrgjBOLPGc?si=6ls9f4MMLuOKcayn){ align=right}-->
