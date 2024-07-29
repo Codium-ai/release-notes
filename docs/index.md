@@ -22,9 +22,6 @@ description: Latest release notes of Codiumate and PR-Agent
 **[<b class="white">:simple-jetbrains:</b> Codiumate<b class="green">:</b>JetBrains | v0.9](./versions/latest/jetbrains.md)**
 </h3>
 
-![type:video](https://www.youtube.com/embed/kwSiMs6pdcc?si=HSiWwWZKuHFe9V02){ align=right}
-
-
 <div class="centered" markdown>
 # New **Advanced Test** Panel!
 
@@ -32,6 +29,9 @@ description: Latest release notes of Codiumate and PR-Agent
 <div class="left-padding" markdown>
 
 Ladies and Gents, we have a fantastic new addition to Codiumate for JetBrains — our all-new Advanced Panel! This latest update brings a host of exciting features designed to make your development experience smoother, smarter, and more efficient.
+
+![type:video](https://www.youtube.com/embed/kwSiMs6pdcc?si=HSiWwWZKuHFe9V02){ align=right}
+
 
 ### Here's what's new:
 
