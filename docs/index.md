@@ -30,10 +30,12 @@ description: Latest release notes of Codiumate and PR-Agent
 
 Ladies and Gents, we have a fantastic new addition to Codiumate for JetBrains — our all-new Advanced Panel! This latest update brings a host of exciting features designed to make your development experience smoother, smarter, and more efficient.
 
+### Here's what's new:
+
+
 ![type:video](https://www.youtube.com/embed/kwSiMs6pdcc?si=HSiWwWZKuHFe9V02){ align=right}
 
 
-### Here's what's new:
 
 1. **Sleek New Look and Feel:** We’ve given the Advanced Panel a complete makeover. Enjoy a cleaner, more intuitive interface that makes navigating and utilizing Codiumate easier than ever before.
 
