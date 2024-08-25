@@ -6,52 +6,75 @@ hide:
 
 <div markdown class="centered">
 ![](../../assets/pr-agent.png){ class="no-border"}
-### v0.23 | July 23, 2024
+
+### v2.0.3 | August 26, 2024
 
 <div class="content" markdown>
 <div class="bg-blue" markdown>
 <div class="content" markdown>
-## 
-# PR-Agent **Impact**
 
-
-
-### 
-
-
-We’re excited to introduce a powerful new feature in PR-Agent Pro: the PR-Agent **Impact Report**!
+##
+#  PR-Agent **Chrome Extension built-in Commands**
 
 <div class="left-padding" markdown>
 
-### What's New?
+Run PR-Agent commands **directly from the comment section of your pull request page!**
 
-1. **Impact Report:** Our new impact report showcases a metric that demonstrates how PR-Agent has helped improve the quality of your PRs. This report calculates the number of code suggestions made by PR-Agent that were applied in the PR, providing you with a clear measure of its effectiveness.
+Use our newest PR-Agent Chrome Extension version to make your workflow smoother and more efficient.
 
-2. **Applied Code Suggestions:** Reviewers can now see the applied code suggestions directly within the PR itself. This transparency makes it easier to track changes and understand the improvements made.
+<div markdown class="centered">
+!!! imporant "Free feature!"
+    This feature is **available for free** to all open-source projects!
 
+    **Get PR-Agent Chrome Extension from the [<u>Chrome web store.</u>](https://chromewebstore.google.com/detail/ephlnjeghhogofkifjloamocljapahnl?hl=en)**
 </div>
 
+### Supported Commands:
 
+Each command has its own unique configuration available.
+
+- **Describe:** Generate a detailed PR description, including title, type, summary, walkthrough, and labels.
+- **Review:** Receive actionable feedback on your PR, from identifying potential issues to flagging security concerns.
+- **Improve:** Get code improvement suggestions that focus on efficiency, best practices, and potential issues.
+- **Ask:** Ask any free-text question about the code changes made in your PR.
+- **Update Change Log:** Automatically update your CHANGELOG.md file based on PR code changes.
+- **Filters** Filter between PR-Agent comments and other comments.
+- **Quote:** Quote specific code suggestions from PR-Agent as comments on your PR.
+
+#
+
+### Supported Commands Exclusive to PR-Agent Pro:
+
+- **Docs:** Get documentation suggestions for any code changes in your PR.
+- **Analyze:** Interactively analyze and identify code components changed in your PR.
+- **Actions:** Analyze GitHub action failures.
+
+</div>
 ---
-
-# Follow **Best Practices**
+# Configuration file **export**
 
 <div class="left-padding" markdown>
 
-We’re excited to announce a powerful new feature in Codiumate: **Follow Company Best Practices**. This feature introduces a dedicated wiki page, best_practices.md, allowing you to set specific guidelines and standards for your repository or organization. The AI model will use this page to ensure that code suggestions adheres to your best practices, suggesting improvements and applying a dedicated label—"Organization best practice"—when guidelines are not met.
+**Export Configuration File:** Easily export your preferred PR-Agent settings to a configuration file.
 
-#### Examples of best practices: 
-
-- Clear and Concise Writing: Ensure guidelines are easily understandable.
-- Relevant Code Snippets: Provide short examples to illustrate key points.
-- Document Length: Keep the file up to 800 lines for optimal use.
+**Unified Settings for Your Team:** Apply your configuration file at the repository or organization level to ensure consistency across your team.
 
 </div>
 
+##
+**For a full demonstration, check out our video guide:**
+
+![type:video](https://www.youtube.com/embed/gT5tli7X4H4?si=84cs1O2bM5unLAWf){: style='width: 80%; height: 30.172vw'}
+
 ---
 
-### [**Read CodiumAI Release Notes Digest**](../../index.md)
+<div class="centered" markdown>
 
+<div class="grid cards" markdown>
+- ### [Full **CodiumAI** Release Notes Digest](../../index.md)
+</div>
+
+</div>
 
 </div>
 </div>
