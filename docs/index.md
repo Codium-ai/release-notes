@@ -8,143 +8,139 @@ description: Latest release notes of Codiumate and PR-Agent
 <div class="content" markdown>
 <div class="bg-clear" markdown>
 <div markdown class="centered">
-### July 23, 2024
+
 ![](./assets/title.png){ class="no-border";}
 
-</div>
-
-
-<!-- JB -->
-
-<div markdown class="bg-black">
-<h3 markdown class="top-left">
-
-**[<b class="white">:simple-jetbrains:</b> Codiumate<b class="green">:</b>JetBrains | v0.9](./versions/latest/jetbrains.md)**
-</h3>
-
-<div class="centered" markdown>
-# New **Advanced Test** Panel!
-
-
-<div class="left-padding" markdown>
-
-Ladies and Gents, we have a fantastic new addition to Codiumate for JetBrains — our all-new Advanced Panel! This latest update brings a host of exciting features designed to make your development experience smoother, smarter, and more efficient.
-
-### Here's what's new:
-
-
-![type:video](https://www.youtube.com/embed/kwSiMs6pdcc?si=HSiWwWZKuHFe9V02){ align=right}
-
-
-
-1. **Sleek New Look and Feel:** We’ve given the Advanced Panel a complete makeover. Enjoy a cleaner, more intuitive interface that makes navigating and utilizing Codiumate easier than ever before.
-
-2. **Context Tab:** Now, you can see all the context we've collected for your tests at a glance. This new tab ensures you have all the relevant information you need right where you need it.
-
-3. **Configuration Tab:** Customizing your testing environment has never been simpler. With our new configuration tab, you can easily set parameters like frameworks, example tests, and extra instructions. Plus, you can save these settings directly to a configuration file right from the tab!
-
-</div>
-</div>
-
-
-<div markdown class="centered">
-
-### **[Learn more about Codiumate Test](https://codiumate-docs.codium.ai/tests/)**
-
---- 
-
-# **Code-Completion** is now available for JetBrains
-
-Our Code Completion feature is designed to expedite your coding process by intelligently analyzing code context and intentions. It seamlessly suggests relevant code snippets, allowing you to swiftly accept them with a simple tab click.
-
-Our paying users can now enjoy this feature on JetBrains, by enabling it in the Codiumate plugin settings.
-
-### **[Learn more about Code Completion](https://codiumate-docs.codium.ai/code-completion/)**
+### August 26, 2024
 
 </div>
 
-</div>
-</div>
-
-<!-- PR-Agent -->
+<!-- PR-Agent 
+:fontawesome-solid-robot:
+-->
 
 <div markdown class="bg-blue">
-
 <h3 markdown class="top-left">
 
-**[<b class="white">:fontawesome-solid-robot:</b> PR<b class="green">-</b>Agent | v0.23](./versions/latest/pr-agent.md)**
+**[<b class="white"></b> PR<b class="green">-</b>Agent | v0.23](./versions/latest/pr-agent.md)**
 </h3>
 
 <div markdown class="centered">
 
-# PR-Agent **Impact**
+# PR-Agent **Chrome Extension built-in Commands**
 
 
 <div class="left-padding" markdown>
 
 ### 
 
+Run PR-Agent commands **directly from the comment section of your pull request page!**
 
-We’re excited to introduce a powerful new feature in PR-Agent Pro: the PR-Agent **Impact Report**!
+Use our newest PR-Agent Chrome Extension version to make your workflow smoother and more efficient.
 
-### What's New?
+##
+<div markdown class="centered">
+!!! imporant "Free feature!"
+    This feature is **available for free** to all open-source projects!
 
-1. **Impact Report:** Our new impact report showcases a metric that demonstrates how PR-Agent has helped improve the quality of your PRs. This report calculates the number of code suggestions made by PR-Agent that were applied in the PR, providing you with a clear measure of its effectiveness.
+    **Get PR-Agent Chrome Extension from the [<u>Chrome web store.</u>](https://chromewebstore.google.com/detail/ephlnjeghhogofkifjloamocljapahnl?hl=en)**
+</div>
+</div>
 
-2. **Applied Code Suggestions:** Reviewers can now see the applied code suggestions directly within the PR itself. This transparency makes it easier to track changes and understand the improvements made.
+##
+**For a full demonstration, check out our video guide:**
 
+![type:video](https://www.youtube.com/embed/gT5tli7X4H4?si=84cs1O2bM5unLAWf){: style='width: 60%; height: 30.172vw'}
 
+<div class="grid cards" markdown>
+- [Read <b class="green">PR<b class="purple">-</b>Agent</b> full release notes](./versions/latest/pr-agent.md)
+</div>
 
 </div>
 </div>
-</div>
 
 
-<!-- VSCode
+<!-- JB
+:simple-jetbrains:
+-->
 
 <div markdown class="bg-black">
 <h3 markdown class="top-left">
-**[<b class="white">:simple-visualstudiocode:</b> Codiumate<b class="green">:</b>VSCode | v0.9.10][def]**
+
+**[<b class="white"></b> Codiumate<b class="green">:</b>JetBrains | v0.9](./versions/latest/jetbrains.md)**
 </h3>
 
 <div class="centered" markdown>
-We're excited to unveil Codiumate v0.9.20, featuring a **redesigned interface**, enhanced project indexing, and intuitive navigation with new shortcuts like `@` and the + button. You can now add context to your requests with code snippets, files, folders, or **entire projects**, and activate the new coding-agent with a click for expert assistance. 
 
-The update also incorporates **GPT-4o** for smarter test generation and adds the **Vitest framework** to our supported testing frameworks for JavaScript and TypeScript. 
+# **Task Planner Alpha**
 
-**[Read More](./versions/latest/vscode.md)**
-
-### **🤩 See how it looks:**
-
-#### Choose focus
-![](./versions/latest/current-file.gif){width=50%}
-
-#### Add Extra Context
-![](./versions/latest/extra-context.gif){width=50%}
-
-
-</div>
 
 <div class="left-padding" markdown>
 
+We’ve introduced **Task planner alpha** in Codiumate Jetbrains!
+
+Transform your tasks and TO DOs into structured, actionable plans with ease.
+
+Simply select code snippets, describe your tasks, and Task planner generates a structured, step-by-step plan for you.
 
 </div>
-</div> -->
+
+<div class="centered" markdown>
+
+**For a full demonstration, check out our video guide:**
+
+![type:video](https://www.youtube.com/embed/9dH3pUzsbig?si=8WG9Mu8bymDUg1C7){: style='width: 60%; height: 30.172vw'}
+
+<div class="grid cards" markdown>
+- [Read <b class="green">Codiumate<b class="purple">:</b>JetBrains</b> full release notes](./versions/latest/jetbrains.md)
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<!-- VSCode
+:simple-vscode:
+-->
+
+<div markdown class="bg-blue">
+<h3 markdown class="top-left">
+
+**[<b class="white"></b> Codiumate<b class="green">:</b>VSCode | v0.9.13](./versions/latest/vscode.md)**
+</h3>
+
+<div class="left-padding" markdown>
+
+We’ve been hard at work refining your experience in VSCode! In this release, we’ve introduced several key improvements:
+
+- **New placement for the code snippet button** to enhance usability and allow easier access.
+- **Labeled buttons** and refreshed **color schemes** for a cleaner, more intuitive UI.
+- Upgraded **error messages** with clearer, more actionable instructions.
+
+</div>
+
+<div class="centered" markdown>
+<div class="grid cards" markdown>
+- [Read <b class="green">Codiumate<b class="purple">:</b>VSCode</b> full release notes ](./versions/latest/vscode.md)
+</div>
+</div>
+</div> 
 
 
 <!-- FOOTER -->
 
 <!-- What's cooking -->
-
+<!-- 
 <div markdown class="bg-blue">
 
 <h3 markdown class="top-left">
 
 
-</h3>
+</h3> -->
 
 
-<div class="centered" markdown>
+<!-- <div class="centered" markdown>
 # What's **Cooking**?
 
 <div class="left-padding" markdown>
@@ -155,27 +151,8 @@ The update also incorporates **GPT-4o** for smarter test generation and adds the
     These days we're working on improving the test quality - starting from a better context selection, project indexing for better mocking and learning from specific language best practices.
 
 </div>
-</div>
-
-</div>
-
-
+</div> -->
 <!-- FOOTER -->
 
-<div class="centered" markdown>
-### Read full Release Notes:
-
-
-<div class="grid cards" markdown>
-
-- [<b class="white">:simple-jetbrains:</b> **<b class="green">Codiumate<b class="purple">:</b>JetBrains**</b>](./versions/latest/jetbrains.md)
-- [<b class="white">:simple-visualstudiocode:</b> **<b class="green">Codiumate<b class="purple">:</b>VSCode**</b> ][def]
-- [<b class="white">:fontawesome-solid-robot:</b> **<b class="green">PR<b class="purple">-</b>Agent**</b> ](./versions/latest/pr-agent.md)
-
-
 </div>
 </div>
-</div>
-
-
-[def]: ./versions/latest/vscode.md
