@@ -60,11 +60,55 @@ Use our newest PR-Agent Chrome Extension version to make your workflow smoother 
 </div>
 
 
+<!-- VSCode
+:simple-vscode:
+-->
+
+<div markdown class="bg-black">
+<h3 markdown class="top-left">
+
+**[<b class="white"></b> Codiumate<b class="green">:</b>VSCode | v0.9.13](./versions/latest/vscode.md)**
+</h3>
+
+<div markdown class="centered">
+
+# **Codiumate:Chat:** Focus behavior now more intuitive!
+
+<div class="left-padding" markdown>
+
+Use Codiumate:Chat faster and more intuitively: **Focus is now your currently open file by default!**
+
+When Codiumate:Chat is opened, it will automatically Focus on the file currently opened in your IDE.
+
+##
+**Automatic Secondary Focus:** Your Secondary Focus will automatically set as either:
+
+1. **Selected Lines:** If you've highlighted specific lines in the file, these will be set as your Secondary Focus.
+2. **No Selected Lines:** If no lines were selected, Codiumate will focus on the first component (like a function or class) within the file.
+3. **No Component Found:** If no component is identified, Codiumate will focus on the entire file when possible.
+4. **Fallback Option:** If none of the above criteria are met, Codiumate will prompt you to manually select lines to focus on.
+
+## 
+**Focus Lock mechanism:** As you navigate through different files in your IDE, Codiumate automatically updates its focus to match the current file - unless you've already started a conversation.
+
+This keeps Codiumate in sync with your workflow until you're ready to lock in your focus for a specific conversation.
+
+</div>
+
+<div class="centered" markdown>
+<div class="grid cards" markdown>
+- [Read <b class="green">Codiumate<b class="purple">:</b>VSCode</b> full release notes ](./versions/latest/vscode.md)
+</div>
+</div>
+</div>
+</div>
+
+
 <!-- JB
 :simple-jetbrains:
 -->
 
-<div markdown class="bg-black">
+<div markdown class="bg-blue">
 <h3 markdown class="top-left">
 
 **[<b class="white"></b> Codiumate<b class="green">:</b>JetBrains | v0.9](./versions/latest/jetbrains.md)**
@@ -99,33 +143,6 @@ Simply select code snippets, describe your tasks, and Task planner generates a s
 </div>
 </div>
 </div>
-
-<!-- VSCode
-:simple-vscode:
--->
-
-<div markdown class="bg-blue">
-<h3 markdown class="top-left">
-
-**[<b class="white"></b> Codiumate<b class="green">:</b>VSCode | v0.9.13](./versions/latest/vscode.md)**
-</h3>
-
-<div class="left-padding" markdown>
-
-We’ve been hard at work refining your experience in VSCode! In this release, we’ve introduced several key improvements:
-
-- **New placement for the code snippet button** to enhance usability and allow easier access.
-- **Labeled buttons** and refreshed **color schemes** for a cleaner, more intuitive UI.
-- Upgraded **error messages** with clearer, more actionable instructions.
-
-</div>
-
-<div class="centered" markdown>
-<div class="grid cards" markdown>
-- [Read <b class="green">Codiumate<b class="purple">:</b>VSCode</b> full release notes ](./versions/latest/vscode.md)
-</div>
-</div>
-</div> 
 
 
 <!-- FOOTER -->

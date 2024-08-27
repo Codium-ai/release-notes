@@ -16,6 +16,26 @@ subtitle: Codiumate plugin for JetBrains v0.7.30 Release Notes
 <div class="left-padding" markdown>
 
 ###
+# **Codiumate:Chat:** Focus behavior now more intuitive!
+
+Use Codiumate:Chat faster and more intuitively: **Focus is now your currently open file by default!**
+
+When Codiumate:Chat is opened, it will automatically Focus on the file currently opened in your IDE.
+
+##
+**Automatic Secondary Focus:** Your Secondary Focus will automatically set as either:
+
+1. **Selected Lines:** If you've highlighted specific lines in the file, these will be set as your Secondary Focus.
+2. **No Selected Lines:** If no lines were selected, Codiumate will focus on the first component (like a function or class) within the file.
+3. **No Component Found:** If no component is identified, Codiumate will focus on the entire file when possible.
+4. **Fallback Option:** If none of the above criteria are met, Codiumate will prompt you to manually select lines to focus on.
+
+## 
+**Focus Lock mechanism:** As you navigate through different files in your IDE, Codiumate automatically updates its focus to match the current file - unless you've already started a conversation.
+
+This keeps Codiumate in sync with your workflow until you're ready to lock in your focus for a specific conversation.
+
+#
 # All-around **UI improvements**
 
 We’ve been hard at work refining your experience in VSCode! In this release, we’ve introduced several key improvements:
