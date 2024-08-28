@@ -93,6 +93,11 @@ When Codiumate:Chat is opened, it will automatically Focus on the file currently
 
 This keeps Codiumate in sync with your workflow until you're ready to lock in your focus for a specific conversation.
 
+##
+**Codebase Selection:** For Enterprise RAG users, you can now **turn RAG usage on or off!**
+
+If you don't want to use your entire codebase as context and look for something more specific, simply turn RAG off from the context selection menu.
+
 </div>
 
 <div class="centered" markdown>
