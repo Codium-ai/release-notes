@@ -11,7 +11,7 @@ description: Latest release notes of Codiumate and PR-Agent
 
 ![](./assets/title.png){ class="no-border";}
 
-### August 26, 2024
+### August 29, 2024
 
 </div>
 
@@ -67,7 +67,7 @@ Use our newest PR-Agent Chrome Extension version to make your workflow smoother 
 <div markdown class="bg-black">
 <h3 markdown class="top-left">
 
-**[<b class="white"></b> Codiumate<b class="green">:</b>VSCode | v0.9.13](./versions/latest/vscode.md)**
+**[<b class="white"></b> Codiumate<b class="green">:</b>VSCode | v0.9.14](./versions/latest/vscode.md)**
 </h3>
 
 <div markdown class="centered">
