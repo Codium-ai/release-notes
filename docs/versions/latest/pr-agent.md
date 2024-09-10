@@ -2,76 +2,71 @@
 hide:
   - navigation
   - toc
+title: PR-Agent Release Notes
+subtitle: PR-Agent Release Notes
 ---
-
+#
 <div markdown class="centered">
 ![](../../assets/pr-agent.png){ class="no-border"}
 
-### v2.0.3 | August 26, 2024
+### September 11, 2024
+#### v0.24
 
 <div class="content" markdown>
-<div class="bg-blue" markdown>
-<div class="content" markdown>
+<div class="bg-black" markdown>
 
-##
-#  PR-Agent **Chrome Extension built-in Commands**
+## PR-Agent Chrome Extension
+# Introducing **PR-Chat!**
 
 <div class="left-padding" markdown>
 
-Run PR-Agent commands **directly from the comment section of your pull request page!**
+We’re so excited to introduce a gamechanging addition to your day to day work: **PR-Chat**.
 
-Use our newest PR-Agent Chrome Extension version to make your workflow smoother and more efficient.
+PR-Chat is a **completely private, AI-powered chatbox**, residing directly within your GitHub environment,<br>that can give you instant feedback on your Pull Requests.
 
+##
 <div markdown class="centered">
-!!! imporant "Free feature!"
-    This feature is **available for free** to all open-source projects!
-
-    **Get PR-Agent Chrome Extension from the [<u>Chrome web store.</u>](https://chromewebstore.google.com/detail/ephlnjeghhogofkifjloamocljapahnl?hl=en)**
-</div>
-
-### Supported Commands:
-
-Each command has its own unique configuration available.
-
-- **Describe:** Generate a detailed PR description, including title, type, summary, walkthrough, and labels.
-- **Review:** Receive actionable feedback on your PR, from identifying potential issues to flagging security concerns.
-- **Improve:** Get code improvement suggestions that focus on efficiency, best practices, and potential issues.
-- **Ask:** Ask any free-text question about the code changes made in your PR.
-- **Update Change Log:** Automatically update your CHANGELOG.md file based on PR code changes.
-- **Filters** Filter between PR-Agent comments and other comments.
-- **Quote:** Quote specific code suggestions from PR-Agent as comments on your PR.
-
-#
-
-### Supported Commands Exclusive to PR-Agent Pro:
-
-- **Docs:** Get documentation suggestions for any code changes in your PR.
-- **Analyze:** Interactively analyze and identify code components changed in your PR.
-- **Actions:** Analyze GitHub action failures.
-
-</div>
----
-# Configuration file **export**
-
-<div class="left-padding" markdown>
-
-**Export Configuration File:** Easily export your preferred PR-Agent settings to a configuration file.
-
-**Unified Settings for Your Team:** Apply your configuration file at the repository or organization level to ensure consistency across your team.
-
+![TestGeneration](../../assets/gifs/PR-AgentChat.gif){: style='width: 50%;'}
 </div>
 
 ##
-**For a full demonstration, check out our video guide:**
+With PR-Chat, you can:
 
-![type:video](https://www.youtube.com/embed/gT5tli7X4H4?si=84cs1O2bM5unLAWf){: style='width: 80%; height: 30.172vw'}
+* **Ask questions** about specific code changes.
+* **Request feedback** on potential improvements.
+* **Get explanations** for complex code.
+
+It’s like having a coding mentor available at any moment, directly within your workflow.
+
+And here’s the best part: **PR-Chat is completely free** for open-source repositories! To get started, [install the PR-Agent Chrome extension](http://codium.ai/pr-ext).
+
+For private repositories, access the full feature set with PR-Agent Pro.
+
+[Learn more in our PR-Agent docs](https://pr-agent-docs.codium.ai/chrome-extension/#pr-chat) and start enhancing your review process today.
+
+##
+<div markdown class="centered">
+![TestGeneration](../../assets/gifs/PR-AgentChat.gif){: style='width: 50%;'}
+</div>
+
+##
 
 ---
+
+## **PR-Agent** improvements
+
+**Models Support Expanded:** Dive into the latest GPT-4o variants and beyond!
+
+**Enhanced Bitbucket Integration:** Experience seamless auto commands, precise line linking, and smarter multi-line suggestions.
+
+**Security & Stability Upgrades:** Updated Docker image documentation, fixed high-security vulnerabilities, and refined error handling.
+
+**Improved Tools & Fixes:** Enhanced PR tools and clearer responses as well as resolved issues across GitHub, GitLab, and Bitbucket.
 
 <div class="centered" markdown>
 
-<div class="grid cards" markdown>
-- ### [Full **CodiumAI** Release Notes Digest](../../index.md)
+<div class="grid cards" style="border: 1px solid #765bfa;" markdown>
+- [<b class="green">Back to **CodiumAI** Release Notes Digest</b>](../../index.md)
 </div>
 
 </div>

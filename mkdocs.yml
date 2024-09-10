@@ -3,19 +3,14 @@ site_description: Latest release notes of Codiumate and PR-Agent
 
 nav: 
   - CodiumAI Release Notes: 'index.md'
-  - JetBrains: 'versions/latest/jetbrains.md'
-  - VSCode: 'versions/latest/vscode.md'
+  - Codiumate: 'versions/latest/codiumate.md'
   - PR-Agent: 'versions/latest/pr-agent.md'
   - Older Versions: 
-    - April 4, 2024:
-      - 'versions/2024-04-04/index.md'
-      - JetBrains: 'versions/2024-04-04/jetbrains.md'
-      - VSCode: 'versions/2024-04-04/vscode.md'
-    - March 28, 2024:
-      - 'versions/2024-03-28/index.md'
-      - JetBrains: 'versions/2024-03-28/jetbrains.md'
-      - VSCode: 'versions/2024-03-28/vscode.md'
-      - PR-Agent: 'versions/2024-03-28/pr-agent.md'
+    - August 26, 2024:
+      - 'versions/2024-08-26/index.md'
+      - JetBrains: 'versions/2024-08-26/jetbrains.md'
+      - VSCode: 'versions/2024-08-26/vscode.md'
+      - PR-Agent: 'versions/2024-08-26/pr-agent.md'
 
 theme:
   logo: assets/logo.svg
