@@ -10,7 +10,7 @@ subtitle: PR-Agent Release Notes
 ![](../../assets/pr-agent.png){ class="no-border"}
 
 ### September 11, 2024
-#### v0.24
+#### v1.2.7
 
 <div class="content" markdown>
 <div class="bg-black" markdown>
