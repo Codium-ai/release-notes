@@ -28,7 +28,7 @@ This version introduces:
 
 - **Enhanced Context Awareness:** Improvements to Context makes Codiumate Code Completion suggestions more relevant, by remembering your most recently opened files.
 
-- **Lightning-Fast Performance:** Enjoy a smoother coding experience with asynchronous context updates, thanks to cutting-edge coroutine technology.
+- **Enhanced Performance:** Enjoy a smoother coding experience with asynchronous context updates, thanks to cutting-edge coroutine technology.
 
 - **Efficient Caching:** Benefit from faster load times and optimized performance thanks to our new caching mechanisms for dependencies, recent files, and directory structures.
 
