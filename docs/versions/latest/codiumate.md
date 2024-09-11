@@ -1,6 +1,5 @@
 ---
 hide:
-  - navigation
   - toc
 title: Codiumate Release Notes
 subtitle: Codiumate plugin for VSCode and JetBrains Release Notes

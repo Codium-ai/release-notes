@@ -1,6 +1,5 @@
 ---
 hide:
-  - navigation
   - toc
 title: CodiumAI Release Notes Digest
 description: Latest release notes of Codiumate and PR-Agent

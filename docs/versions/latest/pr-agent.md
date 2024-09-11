@@ -1,6 +1,5 @@
 ---
 hide:
-  - navigation
   - toc
 title: PR-Agent Release Notes
 subtitle: PR-Agent Release Notes
