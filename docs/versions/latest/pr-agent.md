@@ -49,20 +49,6 @@ For private repositories, access the full feature set with PR-Agent Pro.
 ![TestGeneration](../../assets/gifs/PR-AgentChat.gif){: style='width: 50%;'}
 </div>
 
-##
-
----
-
-## **PR-Agent** improvements
-
-**Models Support Expanded:** Dive into the latest GPT-4o variants and beyond!
-
-**Enhanced Bitbucket Integration:** Experience seamless auto commands, precise line linking, and smarter multi-line suggestions.
-
-**Security & Stability Upgrades:** Updated Docker image documentation, fixed high-security vulnerabilities, and refined error handling.
-
-**Improved Tools & Fixes:** Enhanced PR tools and clearer responses as well as resolved issues across GitHub, GitLab, and Bitbucket.
-
 <div class="centered" markdown>
 
 <div class="grid cards" style="border: 1px solid #765bfa;" markdown>

@@ -45,7 +45,7 @@ For private repositories, explore **PR-Agent Pro** for access to full features.
 
 <div class="centered" markdown>
 <div class="grid cards" style="border: 1px solid #765bfa;" markdown>
-- [<b>Read PR-Agent full release notes</b>](./versions/latest/pr-agent.md)
+- [<b class="green">Read PR-Agent full release notes</b>](./versions/latest/pr-agent.md)
 </div>
 </div>
 </div>
@@ -79,7 +79,7 @@ This version introduces:
 
 <div class="centered" markdown>
 <div class="grid cards" style="border: 1px solid #765bfa;" markdown>
-- [<b>Read Codiumate full release notes</b>](./versions/latest/codiumate.md)
+- [<b class="green">Read Codiumate full release notes</b>](./versions/latest/codiumate.md)
 </div>
 </div>
 </div>
