@@ -17,7 +17,7 @@ description: Latest release notes of Codiumate and PR-Agent
 <!-- PR-Agent -->
 <div class="bg-black" markdown>
 <h3 class="top-left" markdown>
-**[PR-Agent | v0.24](./versions/latest/pr-agent.md)**
+**[PR-Agent | v1.2.7](./versions/latest/pr-agent.md)**
 </h3>
 
 <div class="centered" markdown>
