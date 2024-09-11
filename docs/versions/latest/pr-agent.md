@@ -1,6 +1,5 @@
 ---
 hide:
-  - navigation
   - toc
 title: PR-Agent Release Notes
 subtitle: PR-Agent Release Notes
@@ -10,7 +9,7 @@ subtitle: PR-Agent Release Notes
 ![](../../assets/pr-agent.png){ class="no-border"}
 
 ### September 11, 2024
-#### v0.24
+#### v1.2.7
 
 <div class="content" markdown>
 <div class="bg-black" markdown>
@@ -48,20 +47,6 @@ For private repositories, access the full feature set with PR-Agent Pro.
 <div markdown class="centered">
 ![TestGeneration](../../assets/gifs/PR-AgentChat.gif){: style='width: 50%;'}
 </div>
-
-##
-
----
-
-## **PR-Agent** improvements
-
-**Models Support Expanded:** Dive into the latest GPT-4o variants and beyond!
-
-**Enhanced Bitbucket Integration:** Experience seamless auto commands, precise line linking, and smarter multi-line suggestions.
-
-**Security & Stability Upgrades:** Updated Docker image documentation, fixed high-security vulnerabilities, and refined error handling.
-
-**Improved Tools & Fixes:** Enhanced PR tools and clearer responses as well as resolved issues across GitHub, GitLab, and Bitbucket.
 
 <div class="centered" markdown>
 
