@@ -1,10 +1,10 @@
-site_name: CodiumAI Release Notes Digest
-site_description: Latest release notes of Codiumate and PR-Agent
+site_name: Qodo Release Notes Digest
+site_description: Latest release notes of qodoMate and qodoPR
 
 nav: 
-  - CodiumAI Release Notes: 'index.md'
-  - Codiumate: 'versions/latest/codiumate.md'
-  - PR-Agent: 'versions/latest/pr-agent.md'
+  - Qodo Release Notes: 'index.md'
+  - qodoMate: 'versions/latest/qodoMate.md'
+  - qodoPR: 'versions/latest/qodoPR.md'
   - Older Versions: 
     - August 26, 2024:
       - 'versions/2024-08-26/index.md'
@@ -123,4 +123,4 @@ markdown_extensions:
 
 
 copyright: |
-  &copy; 2024 <a href="https://www.codium.ai/"  target="_blank" rel="noopener">CodiumAI</a>
+  &copy; 2024 <a href="https://www.qodo.ai/"  target="_blank" rel="noopener">Qodo</a>
