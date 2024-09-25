@@ -66,11 +66,16 @@ Check out the full Codiumate Release Notes to learn more.
 
 <div class="centered" markdown>
 
-# **PR-Agent** 
+# PR-Agent **Help Command**
 
 <div class="left-padding" markdown>
 
+WRITE ABOUT HELP COMMAND
 
+
+<div class="centered" markdown>
+![Help Command](./versions/latest/image.png){: style='width: 60%;'}
+</div>
 
 [Learn more in the PR-Agent docs](https://pr-agent-docs.codium.ai/chrome-extension/#pr-chat) and start enhancing your review process today.
 </div>
