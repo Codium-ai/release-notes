@@ -37,11 +37,11 @@ With PR-Chat, you can:
 
 It’s like having a coding mentor available at any moment, directly within your workflow.
 
-And here’s the best part: **PR-Chat is completely free** for open-source repositories! To get started, [install the PR-Agent Chrome extension](http://codium.ai/pr-ext).
+And here’s the best part: **PR-Chat is completely free** for open-source repositories! To get started, [install the PR-Agent Chrome extension](http://qodo.ai/pr-ext).
 
 For private repositories, access the full feature set with PR-Agent Pro.
 
-[Learn more in our PR-Agent docs](https://pr-agent-docs.codium.ai/chrome-extension/#pr-chat) and start enhancing your review process today.
+[Learn more in our PR-Agent docs](https://qodo-merge-docs.qodo.ai/chrome-extension/#pr-chat) and start enhancing your review process today.
 
 ##
 <div markdown class="centered">
@@ -51,7 +51,7 @@ For private repositories, access the full feature set with PR-Agent Pro.
 <div class="centered" markdown>
 
 <div class="grid cards" style="border: 1px solid #765bfa;" markdown>
-- [<b class="green">Back to **CodiumAI** Release Notes Digest</b>](../../index.md)
+- [<b class="green">Back to **Qodo** Release Notes Digest</b>](../../index.md)
 </div>
 
 </div>

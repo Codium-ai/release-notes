@@ -1,10 +1,10 @@
 site_name: Qodo Release Notes Digest
-site_description: Latest release notes of qodoMate and qodoPR
+site_description: Latest release notes of qodo Gen and qodo Merge
 
 nav: 
   - Qodo Release Notes: 'index.md'
-  - qodoMate: 'versions/latest/qodoMate.md'
-  - qodoPR: 'versions/latest/qodoPR.md'
+  - qodoGen: 'versions/latest/qodo-gen.md'
+  - qodoMerge: 'versions/latest/qodo-merge.md'
   - Older Versions: 
     - August 26, 2024:
       - 'versions/2024-08-26/index.md'
@@ -79,13 +79,13 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.com/invite/SgSxuQ65GF
     - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/@Codium-AI
+      link: https://www.youtube.com/@QodoAI
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/company/codiumai
+      link: https://www.linkedin.com/company/qodoai
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/CodiumAI
+      link: https://twitter.com/QodoAI
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/codiumai/
+      link: https://www.instagram.com/qodo_ai
 
 extra_css:
   - css/custom.css

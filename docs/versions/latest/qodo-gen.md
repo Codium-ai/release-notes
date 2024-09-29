@@ -1,8 +1,8 @@
 ---
 hide:
   - toc
-title: Codiumate Release Notes
-subtitle: Codiumate plugin for VSCode and JetBrains Release Notes
+title: qodo Gen Release Notes
+subtitle: qodo Gen plugin for VSCode and JetBrains Release Notes
 ---
 #
 <div markdown class="centered">
@@ -15,17 +15,17 @@ subtitle: Codiumate plugin for VSCode and JetBrains Release Notes
 <div class="bg-black" markdown>
 
 ###
-# **Codiumate Code completion** improvements
+# **qodo Gen Code completion** improvements
 
 <div class="left-padding" markdown>
 
-We're hard at work making your Codiumate Code Completion faster, smarter and better.
+We're hard at work making your qodo Gen Code Completion faster, smarter and better.
 
 This version introduces:
 
 - **Smarter Code Completion:** Code suggestions are more accurate and intuitive with our revamped single-line and multi-line completion features.
 
-- **Enhanced Context Awareness:** Improvements to Context makes Codiumate Code Completion suggestions more relevant, by remembering your most recently opened files.
+- **Enhanced Context Awareness:** Improvements to Context makes qodo Gen Code Completion suggestions more relevant, by remembering your most recently opened files.
 
 - **Enhanced Performance:** Enjoy a smoother coding experience with asynchronous context updates, thanks to cutting-edge coroutine technology.
 
@@ -36,7 +36,7 @@ This version introduces:
 <div class="centered" markdown>
 
 <div class="grid cards" style="border: 1px solid #765bfa;" markdown>
-- [<b class="green">Back to **CodiumAI** Release Notes Digest</b>](../../index.md)
+- [<b class="green">Back to **Qodo** Release Notes Digest</b>](../../index.md)
 </div>
 
 </div>
