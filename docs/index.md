@@ -1,8 +1,9 @@
 ---
 hide:
   - toc
-title: CodiumAI Release Notes Digest
-description: Latest release notes of Codiumate and PR-Agent
+  - navigation
+title: Qodo Release Notes Digest
+description: Latest release notes of qodo Gen and qodo Merge
 ---
 
 <div class="content" markdown>
@@ -13,15 +14,15 @@ description: Latest release notes of Codiumate and PR-Agent
 ### September 11, 2024
 </div>
 
-<!-- PR-Agent -->
+<!-- qodo Merge -->
 <div class="bg-black" markdown>
 <h3 class="top-left" markdown>
-**[PR-Agent | v1.2.7](./versions/latest/pr-agent.md)**
+**[qodo Merge | v1.2.7](./versions/latest/qodo-merge.md)**
 </h3>
 
 <div class="centered" markdown>
 
-## PR-Agent Chrome Extension
+## qodo Merge Chrome Extension
 # Introducing **PR-Chat!**
 
 <div class="left-padding" markdown>
@@ -29,11 +30,11 @@ We’re excited to introduce **PR-Chat**, a **private, AI-powered chatbox** inte
 
 PR-Chat acts like a coding mentor, available anytime within your workflow. It's **completely free** for open-source repositories!
 
-[Install the PR-Agent Chrome extension](https://chromewebstore.google.com/detail/pr-agent-chrome-extension/ephlnjeghhogofkifjloamocljapahnl) to get started.
+[Install the qodo Merge Chrome extension](https://chromewebstore.google.com/detail/pr-agent-chrome-extension/ephlnjeghhogofkifjloamocljapahnl) to get started.
 
-For private repositories, explore **PR-Agent Pro** for access to full features.
+For private repositories, explore **qodo Merge Pro** for access to full features.
 
-[Learn more in the PR-Agent docs](https://pr-agent-docs.codium.ai/chrome-extension/#pr-chat) and start enhancing your review process today.
+[Learn more in the qodo Merge docs](https://qodo-merge-docs.qodo.ai/chrome-extension/#pr-chat) and start enhancing your review process today.
 </div>
 
 ##
@@ -44,7 +45,7 @@ For private repositories, explore **PR-Agent Pro** for access to full features.
 
 <div class="centered" markdown>
 <div class="grid cards" style="border: 1px solid #765bfa;" markdown>
-- [<b class="green">Read PR-Agent full release notes</b>](./versions/latest/pr-agent.md)
+- [<b class="green">Read qodo Merge full release notes</b>](./versions/latest/qodo-merge.md)
 </div>
 </div>
 </div>
@@ -52,24 +53,24 @@ For private repositories, explore **PR-Agent Pro** for access to full features.
 
 ##
 
-<!-- Codiumate -->
+<!-- qodo Gen -->
 <div class="bg-black" markdown>
 <h3 class="top-left" markdown>
-**[Codiumate | JetBrains v0.9.5 | VSCode v0.9.15](./versions/latest/vscode.md)**
+**[qodo Gen | JetBrains v0.9.5 | VSCode v0.9.15](./versions/latest/qodo-gen.md)**
 </h3>
 
 <div class="centered" markdown>
 
-# **Codiumate Code completion** improvements
+# **qodo Gen Code completion** improvements
 
 <div class="left-padding" markdown>
-We're hard at work making your Codiumate Code Completion faster, smarter and better.
+We're hard at work making your qodo Gen Code Completion faster, smarter and better.
 
 This version introduces:
 
 - **Smarter Code Completion:** Code suggestions are more accurate and intuitive with our revamped single-line and multi-line completion features.
 
-- **Enhanced Context Awareness:** Improvements to Context makes Codiumate Code Completion suggestions more relevant, by remembering your most recently opened files.
+- **Enhanced Context Awareness:** Improvements to Context makes qodo Gen Code Completion suggestions more relevant, by remembering your most recently opened files.
 
 - **Lightning-Fast Performance:** Enjoy a smoother coding experience with asynchronous context updates, thanks to cutting-edge coroutine technology.
 
@@ -78,7 +79,7 @@ This version introduces:
 
 <div class="centered" markdown>
 <div class="grid cards" style="border: 1px solid #765bfa;" markdown>
-- [<b class="green">Read Codiumate full release notes</b>](./versions/latest/codiumate.md)
+- [<b class="green">Read qodo Gen full release notes</b>](./versions/latest/qodo-gen.md)
 </div>
 </div>
 </div>
@@ -99,5 +100,5 @@ Important message:
 !!! important "Free feature!"
     This feature is **available for free** to all open-source projects!
 
-    **Get PR-Agent Chrome Extension from the [<u>Chrome web store.</u>](https://chromewebstore.google.com/detail/ephlnjeghhogofkifjloamocljapahnl?hl=en)**
+    **Get qodo Merge Chrome Extension from the [<u>Chrome web store.</u>](https://chromewebstore.google.com/detail/ephlnjeghhogofkifjloamocljapahnl?hl=en)**
 -->
