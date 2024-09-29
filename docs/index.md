@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+  - navigation
 title: Qodo Release Notes Digest
 description: Latest release notes of qodo Gen and qodo Merge
 ---

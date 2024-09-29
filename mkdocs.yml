@@ -21,7 +21,7 @@ nav:
       - PR-Agent: 'versions/2024-05-30/pr-agent.md'
 
 theme:
-  logo: assets/logo.svg
+  logo: assets/logo-mark.svg
   favicon: assets/favicon.ico
   name: material
   font: false

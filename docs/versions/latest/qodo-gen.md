@@ -1,12 +1,13 @@
 ---
 hide:
   - toc
+  - navigation
 title: qodo Gen Release Notes
 subtitle: qodo Gen plugin for VSCode and JetBrains Release Notes
 ---
 #
 <div markdown class="centered">
-![](../../assets/codimate_release_notes.png){ class="no-border"}
+![](../../assets/title.png){ class="no-border"}
 
 ### September 11, 2024
 #### Jetbrains v0.9.5 | VSCode v0.9.15 

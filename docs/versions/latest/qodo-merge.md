@@ -1,12 +1,13 @@
 ---
 hide:
   - toc
-title: PR-Agent Release Notes
-subtitle: PR-Agent Release Notes
+  - navigation
+title: qodo Merge Release Notes
+subtitle: qodo Merge Release Notes
 ---
 #
 <div markdown class="centered">
-![](../../assets/pr-agent.png){ class="no-border"}
+![](../../assets/title.png){ class="no-border"}
 
 ### September 11, 2024
 #### v1.2.7
@@ -14,7 +15,7 @@ subtitle: PR-Agent Release Notes
 <div class="content" markdown>
 <div class="bg-black" markdown>
 
-## PR-Agent Chrome Extension
+## qodo Merge Chrome Extension
 # Introducing **PR-Chat!**
 
 <div class="left-padding" markdown>
@@ -37,11 +38,11 @@ With PR-Chat, you can:
 
 It’s like having a coding mentor available at any moment, directly within your workflow.
 
-And here’s the best part: **PR-Chat is completely free** for open-source repositories! To get started, [install the PR-Agent Chrome extension](http://qodo.ai/pr-ext).
+And here’s the best part: **PR-Chat is completely free** for open-source repositories! To get started, [install the qodo Merge Chrome extension](http://qodo.ai/pr-ext).
 
-For private repositories, access the full feature set with PR-Agent Pro.
+For private repositories, access the full feature set with qodo Merge Pro.
 
-[Learn more in our PR-Agent docs](https://qodo-merge-docs.qodo.ai/chrome-extension/#pr-chat) and start enhancing your review process today.
+[Learn more in our qodo Merge docs](https://qodo-merge-docs.qodo.ai/chrome-extension/#pr-chat) and start enhancing your review process today.
 
 ##
 <div markdown class="centered">
