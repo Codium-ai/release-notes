@@ -70,7 +70,7 @@ The upgraded Test Generation will be **faster, smarter, and more accurate,** bri
 <div class="centered" markdown>
 
 <div class="grid cards" style="border: 1px solid #765bfa;" markdown>
-- [<b class="green">Back to **Qodo** Release Notes Digest</b>](../../index.md)
+- [<b class="white">Back to **Qodo** Release Notes Digest</b>](../../index.md)
 </div>
 
 </div>

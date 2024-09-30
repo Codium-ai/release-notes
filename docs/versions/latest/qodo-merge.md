@@ -15,17 +15,16 @@ subtitle: qodo Merge Release Notes
 <div class="content" markdown>
 <div class="bg-black" markdown>
 
-## qodo Merge Chrome Extension
-# Introducing **PR-Chat!**
+# qodo Merge **Help Command**
 
 <div class="left-padding" markdown>
 
-
+WRITE ABOUT HELP COMMAND
 
 <div class="centered" markdown>
 
 <div class="grid cards" style="border: 1px solid #765bfa;" markdown>
-- [<b class="green">Back to **Qodo** Release Notes Digest</b>](../../index.md)
+- [<b class="white">Back to **Qodo** Release Notes Digest</b>](../../index.md)
 </div>
 
 </div>

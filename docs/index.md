@@ -14,7 +14,6 @@ description: Latest release notes of qodo Gen and qodo Merge
 ### September 30, 2024
 </div>
 
-
 <!-- qodo Gen -->
 <div class="bg-black" markdown>
 <h3 class="top-left" markdown>
@@ -51,13 +50,11 @@ Check out the full qodo Gen Release Notes to learn more.
 
 <div class="centered" markdown>
 <div class="grid cards" style="border: 1px solid #765bfa;" markdown>
-- [<b class="green">Read qodo Gen full release notes</b>](./versions/latest/qodo-gen.md)
+- [<b class="white">Read **qodo Gen** full release notes</b>](./versions/latest/qodo-gen.md)
 </div>
 </div>
 </div>
 </div>
-
-
 
 <!-- qodo Merge -->
 <div class="bg-black" markdown>
@@ -73,17 +70,11 @@ Check out the full qodo Gen Release Notes to learn more.
 
 WRITE ABOUT HELP COMMAND
 
-
-<div class="centered" markdown>
-![Help Command](./versions/latest/image.png){: style='width: 60%;'}
-</div>
-
-[Learn more in the PR-Agent docs](https://qodo-merge-docs.qodo.ai/chrome-extension/#pr-chat) and start enhancing your review process today.
 </div>
 
 <div class="centered" markdown>
 <div class="grid cards" style="border: 1px solid #765bfa;" markdown>
-- [<b class="green">Read qodo Merge full Release Notes</b>](./versions/latest/qodo-merge.md)
+- [<b class="white">Read **qodo Merge** full Release Notes</b>](./versions/latest/qodo-merge.md)
 </div>
 </div>
 </div>
