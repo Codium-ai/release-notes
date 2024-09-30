@@ -2,12 +2,12 @@
 hide:
   - toc
   - navigation
-title: Codiumate Release Notes
-subtitle: Codiumate plugin for VSCode and JetBrains Release Notes
+title: qodo Gen Release Notes
+subtitle: qodo Gen plugin for VSCode and JetBrains Release Notes
 ---
 #
 <div markdown class="centered">
-![](../../assets/codimate_release_notes.png){ class="no-border"}
+![](../../assets/title.png){ class="no-border"}
 
 ### September 30, 2024
 #### Jetbrains v0.9.8 | VSCode v0.9.16 
@@ -16,21 +16,21 @@ subtitle: Codiumate plugin for VSCode and JetBrains Release Notes
 <div class="bg-black" markdown>
 
 ###
-# Codiumate **Chat History**
+# qodo Gen **Chat History**
 
 <div class="left-padding" markdown>
 
-We're excited to introduce the newest, much-requested feature for Codiumate: **Chat History!**
+We're excited to introduce the newest, much-requested feature for qodo Gen: **Chat History!**
 
 Easily switch between previous conversations and **revisit past chats anytime**. With up to **20 recent chats saved**, you can jump back into discussions, refresh your memory, and **continue right where you left off!**
 
-Review past interactions or explore new topics, dive deeper into a topic or request additional information. Now it's all possible with Codiumate Chat History!
+Review past interactions or explore new topics, dive deeper into a topic or request additional information. Now it's all possible with qodo Gen Chat History!
 
 #### Using Chat History
 1. **Initiate a Command:** Call a command by typing it in the chatbox.
-2. **Continue the Conversation:** At the end of Codiumate's response, continue the conversation as long as you wish. Codiumate will maintain the context of your initial query, providing tailored responses to your follow-up questions.
-3. **Start a new Conversation:** Click on the "New Chat" button on the top right of the chat interface to start a new conversation. Your current chat history will be cleared, and Codiumate will be ready to start a new conversation.
-4. **Check your Chat History:** Next to the "New Chat" button, find the History button and click on it. The Chat History interface will open. You can see your latest 20 chats with Codiumate, switch to each one and continue the conversation if you wish.
+2. **Continue the Conversation:** At the end of qodo Gen's response, continue the conversation as long as you wish. qodo Gen will maintain the context of your initial query, providing tailored responses to your follow-up questions.
+3. **Start a new Conversation:** Click on the "New Chat" button on the top right of the chat interface to start a new conversation. Your current chat history will be cleared, and qodo Gen will be ready to start a new conversation.
+4. **Check your Chat History:** Next to the "New Chat" button, find the History button and click on it. The Chat History interface will open. You can see your latest 20 chats with qodo Gen, switch to each one and continue the conversation if you wish.
 
 </div>
 
@@ -55,7 +55,7 @@ This change is necessary to ensure we deliver the best possible version of our T
 
 #### What can I use instead?
 
-**You can still extend your test suite using Codiumate Chat.**
+**You can still extend your test suite using qodo Gen Chat.**
 
 Enter a free-style chat query, and easily expand your test suite directly through the chat interface.
 
@@ -70,7 +70,7 @@ The upgraded Test Generation will be **faster, smarter, and more accurate,** bri
 <div class="centered" markdown>
 
 <div class="grid cards" style="border: 1px solid #765bfa;" markdown>
-- [<b class="green">Back to **CodiumAI** Release Notes Digest</b>](../../index.md)
+- [<b class="green">Back to **Qodo** Release Notes Digest</b>](../../index.md)
 </div>
 
 </div>

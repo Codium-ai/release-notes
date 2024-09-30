@@ -1,10 +1,10 @@
-site_name: CodiumAI Release Notes Digest
-site_description: Latest release notes of Codiumate and PR-Agent
+site_name: Qodo Release Notes Digest
+site_description: Latest release notes of qodo Gen and qodo Merge
 
 nav: 
-  - CodiumAI Release Notes: 'index.md'
-  - Codiumate: 'versions/latest/codiumate.md'
-  - PR-Agent: 'versions/latest/pr-agent.md'
+  - Qodo Release Notes: 'index.md'
+  - qodoGen: 'versions/latest/qodo-gen.md'
+  - qodoMerge: 'versions/latest/qodo-merge.md'
   - Older Versions: 
     - August 26, 2024:
       - 'versions/2024-08-26/index.md'
@@ -21,7 +21,7 @@ nav:
       - PR-Agent: 'versions/2024-05-30/pr-agent.md'
 
 theme:
-  logo: assets/logo.svg
+  logo: assets/logo-mark.svg
   favicon: assets/favicon.ico
   name: material
   font: false
@@ -79,13 +79,13 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.com/invite/SgSxuQ65GF
     - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/@Codium-AI
+      link: https://www.youtube.com/@QodoAI
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/company/codiumai
+      link: https://www.linkedin.com/company/qodoai
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/CodiumAI
+      link: https://twitter.com/QodoAI
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/codiumai/
+      link: https://www.instagram.com/qodo_ai
 
 extra_css:
   - css/custom.css
@@ -123,4 +123,4 @@ markdown_extensions:
 
 
 copyright: |
-  &copy; 2024 <a href="https://www.codium.ai/"  target="_blank" rel="noopener">CodiumAI</a>
+  &copy; 2024 <a href="https://www.qodo.ai/"  target="_blank" rel="noopener">Qodo</a>
