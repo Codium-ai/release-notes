@@ -11,8 +11,37 @@ description: Latest release notes of qodo Gen and qodo Merge
 <div class="centered" markdown>
 ![](./assets/title.png){ class="no-border"; }
 
-### September 11, 2024
+### September 30, 2024
 </div>
+
+<div class="bg-black" markdown>
+<div class="centered" markdown>
+
+## We have a new name!
+# CodiumAI is now **Qodo**
+
+We're thrilled to introduce our new name: **Qodo**!
+
+This rebrand marks an exciting evolution as we continue to focus on delivering top-notch AI-powered solutions for developers.
+
+### What's Changing?
+Codiumate is now called **qodo Gen**
+
+PR-Agent is now called **qodo Merge**
+
+Cover Agent is now called **qodo Cover**
+
+### Our Mission Remains the Same
+At Qodo, Generate confidence, not just code.
+
+Our quality-first AI code generation is here to help busy developers write, test and review code.
+
+Thank you for being part of this journey with us!
+
+</div>
+</div>
+
+##
 
 <!-- qodo Merge -->
 <div class="bg-black" markdown>
