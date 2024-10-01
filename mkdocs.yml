@@ -1,5 +1,5 @@
 site_name: Qodo Release Notes Digest
-site_description: Latest release notes of qodo Gen and qodo Merge
+site_description: Latest release notes of Qodo Gen and Qodo Merge
 
 nav: 
   - Qodo Release Notes: 'index.md'

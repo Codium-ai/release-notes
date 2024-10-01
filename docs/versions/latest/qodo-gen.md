@@ -2,8 +2,8 @@
 hide:
   - toc
   - navigation
-title: qodo Gen Release Notes
-subtitle: qodo Gen plugin for VSCode and JetBrains Release Notes
+title: Qodo Gen Release Notes
+subtitle: Qodo Gen plugin for VSCode and JetBrains Release Notes
 ---
 #
 <div markdown class="centered">
@@ -16,17 +16,17 @@ subtitle: qodo Gen plugin for VSCode and JetBrains Release Notes
 <div class="bg-black" markdown>
 
 ###
-# **qodo Gen Code completion** improvements
+# **Qodo Gen Code completion** improvements
 
 <div class="left-padding" markdown>
 
-We're hard at work making your qodo Gen Code Completion faster, smarter and better.
+We're hard at work making your Qodo Gen Code Completion faster, smarter and better.
 
 This version introduces:
 
 - **Smarter Code Completion:** Code suggestions are more accurate and intuitive with our revamped single-line and multi-line completion features.
 
-- **Enhanced Context Awareness:** Improvements to Context makes qodo Gen Code Completion suggestions more relevant, by remembering your most recently opened files.
+- **Enhanced Context Awareness:** Improvements to Context makes Qodo Gen Code Completion suggestions more relevant, by remembering your most recently opened files.
 
 - **Enhanced Performance:** Enjoy a smoother coding experience with asynchronous context updates, thanks to cutting-edge coroutine technology.
 
