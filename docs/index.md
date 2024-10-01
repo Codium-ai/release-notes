@@ -32,7 +32,7 @@ PR-Agent is now called **Qodo Merge**
 Cover Agent is now called **Qodo Cover**
 
 ### Our Mission Remains the Same
-At Qodo, Generate confidence, not just code.
+At Qodo we generate confidence, not just code.
 
 Our quality-first AI code generation is here to help busy developers write, test and review code.
 
