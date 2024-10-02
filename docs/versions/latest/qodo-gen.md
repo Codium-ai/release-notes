@@ -2,8 +2,8 @@
 hide:
   - toc
   - navigation
-title: qodo Gen Release Notes
-subtitle: qodo Gen plugin for VSCode and JetBrains Release Notes
+title: Qodo Gen Release Notes
+subtitle: Qodo Gen plugin for VSCode and JetBrains Release Notes
 ---
 #
 <div markdown class="centered">
@@ -16,21 +16,23 @@ subtitle: qodo Gen plugin for VSCode and JetBrains Release Notes
 <div class="bg-black" markdown>
 
 ###
-# qodo Gen **Chat History**
+# Qodo Gen **Chat History**
 
 <div class="left-padding" markdown>
 
-We're excited to introduce the newest, much-requested feature for qodo Gen: **Chat History!**
+We're excited to introduce the newest, much-requested feature for Qodo Gen: **Chat History!**
 
 Easily switch between previous conversations and **revisit past chats anytime**. With up to **20 recent chats saved**, you can jump back into discussions, refresh your memory, and **continue right where you left off!**
 
-Review past interactions or explore new topics, dive deeper into a topic or request additional information. Now it's all possible with qodo Gen Chat History!
+Review past interactions or explore new topics, dive deeper into a topic or request additional information. Now it's all possible with Qodo Gen Chat History!
 
 #### Using Chat History
 1. **Initiate a Command:** Call a command by typing it in the chatbox.
-2. **Continue the Conversation:** At the end of qodo Gen's response, continue the conversation as long as you wish. qodo Gen will maintain the context of your initial query, providing tailored responses to your follow-up questions.
-3. **Start a new Conversation:** Click on the "New Chat" button on the top right of the chat interface to start a new conversation. Your current chat history will be cleared, and qodo Gen will be ready to start a new conversation.
-4. **Check your Chat History:** Next to the "New Chat" button, find the History button and click on it. The Chat History interface will open. You can see your latest 20 chats with qodo Gen, switch to each one and continue the conversation if you wish.
+2. **Continue the Conversation:** At the end of Qodo Gen's response, continue the conversation as long as you wish. Qodo Gen will maintain the context of your initial query, providing tailored responses to your follow-up questions.
+3. **Start a new Conversation:** Click on the "New Chat" button on the top right of the chat interface to start a new conversation. Your current chat history will be cleared, and Qodo Gen will be ready to start a new conversation.
+4. **Check your Chat History:** Next to the "New Chat" button, find the History button and click on it. The Chat History interface will open. You can see your latest 20 chats with Qodo Gen, switch to each one and continue the conversation if you wish.
+
+Currently, your chat history wouldn't be saved between sessions, and will be deleted once you close VSCode. We are working on adding this feature in the future. Stay tuned!
 
 </div>
 
@@ -55,7 +57,7 @@ This change is necessary to ensure we deliver the best possible version of our T
 
 #### What can I use instead?
 
-**You can still extend your test suite using qodo Gen Chat.**
+**You can still extend your test suite using Qodo Gen Chat.**
 
 Enter a free-style chat query, and easily expand your test suite directly through the chat interface.
 

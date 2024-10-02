@@ -2,8 +2,8 @@
 hide:
   - toc
   - navigation
-title: qodo Merge Release Notes
-subtitle: qodo Merge Release Notes
+title: Qodo Merge Release Notes
+subtitle: Qodo Merge Release Notes
 ---
 #
 <div markdown class="centered">
@@ -15,7 +15,7 @@ subtitle: qodo Merge Release Notes
 <div class="content" markdown>
 <div class="bg-black" markdown>
 
-# qodo Merge **Help Command**
+# Qodo Merge **Help Command**
 
 <div class="left-padding" markdown>
 
