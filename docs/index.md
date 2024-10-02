@@ -3,7 +3,7 @@ hide:
   - toc
   - navigation
 title: Qodo Release Notes Digest
-description: Latest release notes of qodo Gen and qodo Merge
+description: Latest release notes of Qodo Gen and Qodo Merge
 ---
 
 <div class="content" markdown>
@@ -11,109 +11,73 @@ description: Latest release notes of qodo Gen and qodo Merge
 <div class="centered" markdown>
 ![](./assets/title.png){ class="no-border"; }
 
-### September 30, 2024
+### October 8, 2024
 </div>
 
-<div class="bg-black" markdown>
-<div class="centered" markdown>
-
-## We have a new name!
-# CodiumAI is now **Qodo**
-
-We're thrilled to introduce our new name: **Qodo**!
-
-This rebrand marks an exciting evolution as we continue to focus on delivering top-notch AI-powered solutions for developers.
-
-### What's Changing?
-Codiumate is now called **qodo Gen**
-
-PR-Agent is now called **qodo Merge**
-
-Cover Agent is now called **qodo Cover**
-
-### Our Mission Remains the Same
-At Qodo, Generate confidence, not just code.
-
-Our quality-first AI code generation is here to help busy developers write, test and review code.
-
-Thank you for being part of this journey with us!
-
-</div>
-</div>
-
-##
-
-<!-- qodo Merge -->
+<!-- Qodo Gen -->
 <div class="bg-black" markdown>
 <h3 class="top-left" markdown>
-**[qodo Merge | v1.2.7](./versions/latest/qodo-merge.md)**
+**[Qodo Gen | JetBrains v0.9.5 | VSCode v0.9.15](./versions/latest/qodo-gen.md)**
 </h3>
 
 <div class="centered" markdown>
 
-## qodo Merge Chrome Extension
-# Introducing **PR-Chat!**
+# Qodo Gen **Chat History**
 
 <div class="left-padding" markdown>
-We’re excited to introduce **PR-Chat**, a **private, AI-powered chatbox** integrated directly into your GitHub environment, providing instant feedback on your Pull Requests. 
 
-PR-Chat acts like a coding mentor, available anytime within your workflow. It's **completely free** for open-source repositories!
+We're excited to introduce the newest, much-requested feature for Qodo Gen: **Chat History!**
 
-[Install the qodo Merge Chrome extension](https://chromewebstore.google.com/detail/pr-agent-chrome-extension/ephlnjeghhogofkifjloamocljapahnl) to get started.
+Easily switch between previous conversations and **revisit past chats anytime**. With up to **20 recent chats saved**, you can jump back into discussions, refresh your memory, and **continue right where you left off!**
 
-For private repositories, explore **qodo Merge Pro** for access to full features.
+Review past interactions or explore new topics, dive deeper into a topic or request additional information. Now it's all possible with Qodo Gen Chat History!
 
-[Learn more in the qodo Merge docs](https://qodo-merge-docs.qodo.ai/chrome-extension/#pr-chat) and start enhancing your review process today.
 </div>
 
-##
-
 <div class="centered" markdown>
-![PR-Chat Demo](../assets/gifs/PR-AgentChat.gif){: style='width: 50%;' }
+![Chat History](../assets/gifs/22.9.2024ChatHistory.gif){: style='width: 60%; height: 30.172vw'}
+
+## **Test Generation** Upgrade and **Extend Test Suite** Sunset
+</div>
+
+<div class="left-padding" markdown>
+
+We’re happy to announce the beginning of **major enhancements to our Test Generation feature**, designed to improve performance and overall user experience. **As part of this process, we will be sunsetting the "Extend Test Suite" feature.**
+
+Check out the full Qodo Gen Release Notes to learn more.
+
 </div>
 
 <div class="centered" markdown>
 <div class="grid cards" style="border: 1px solid #765bfa;" markdown>
-- [<b class="green">Read qodo Merge full release notes</b>](./versions/latest/qodo-merge.md)
+- [<b class="white">Read **Qodo Gen** full release notes</b>](./versions/latest/qodo-gen.md)
 </div>
 </div>
 </div>
 </div>
 
-##
-
-<!-- qodo Gen -->
+<!-- Qodo Merge -->
 <div class="bg-black" markdown>
 <h3 class="top-left" markdown>
-**[qodo Gen | JetBrains v0.9.5 | VSCode v0.9.15](./versions/latest/qodo-gen.md)**
+**[Qodo Merge | v????????](./versions/latest/qodo-merge.md)**
 </h3>
 
 <div class="centered" markdown>
 
-# **qodo Gen Code completion** improvements
+# Qodo Merge **Help Command**
 
 <div class="left-padding" markdown>
-We're hard at work making your qodo Gen Code Completion faster, smarter and better.
 
-This version introduces:
+WRITE ABOUT HELP COMMAND
 
-- **Smarter Code Completion:** Code suggestions are more accurate and intuitive with our revamped single-line and multi-line completion features.
-
-- **Enhanced Context Awareness:** Improvements to Context makes qodo Gen Code Completion suggestions more relevant, by remembering your most recently opened files.
-
-- **Lightning-Fast Performance:** Enjoy a smoother coding experience with asynchronous context updates, thanks to cutting-edge coroutine technology.
-
-- **Efficient Caching:** Benefit from faster load times and optimized performance thanks to our new caching mechanisms for dependencies, recent files, and directory structures.
 </div>
 
 <div class="centered" markdown>
 <div class="grid cards" style="border: 1px solid #765bfa;" markdown>
-- [<b class="green">Read qodo Gen full release notes</b>](./versions/latest/qodo-gen.md)
+- [<b class="white">Read **Qodo Merge** full Release Notes</b>](./versions/latest/qodo-merge.md)
 </div>
 </div>
 </div>
-</div>
-
 </div>
 </div>
 
@@ -129,5 +93,5 @@ Important message:
 !!! important "Free feature!"
     This feature is **available for free** to all open-source projects!
 
-    **Get qodo Merge Chrome Extension from the [<u>Chrome web store.</u>](https://chromewebstore.google.com/detail/ephlnjeghhogofkifjloamocljapahnl?hl=en)**
+    **Get Qodo Merge Chrome Extension from the [<u>Chrome web store.</u>](https://chromewebstore.google.com/detail/ephlnjeghhogofkifjloamocljapahnl?hl=en)**
 -->
