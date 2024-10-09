@@ -9,8 +9,8 @@ subtitle: Qodo Gen plugin for VSCode and JetBrains Release Notes
 <div markdown class="centered">
 ![](../../assets/title.png){ class="no-border"}
 
-### September 30, 2024
-#### Jetbrains v0.9.8 | VSCode v0.9.16 
+### October 10, 2024
+#### Jetbrains v0.11 | VSCode v0.11
 
 <div class="content" markdown>
 <div class="bg-black" markdown>
@@ -32,7 +32,7 @@ Review past interactions or explore new topics, dive deeper into a topic or requ
 3. **Start a new Conversation:** Click on the "New Chat" button on the top right of the chat interface to start a new conversation. Your current chat history will be cleared, and Qodo Gen will be ready to start a new conversation.
 4. **Check your Chat History:** Next to the "New Chat" button, find the History button and click on it. The Chat History interface will open. You can see your latest 20 chats with Qodo Gen, switch to each one and continue the conversation if you wish.
 
-Currently, your chat history wouldn't be saved between sessions, and will be deleted once you close VSCode. We are working on adding this feature in the future. Stay tuned!
+Currently, your chat history wouldn't be saved between sessions, and will be deleted once you close your IDE. We are working on adding this feature very soon. Stay tuned!
 
 </div>
 
