@@ -57,12 +57,12 @@ Check out the full Qodo Gen Release Notes to learn more.
 </div>
 
 <!-- Qodo Merge -->
-<!-- <div class="bg-black" markdown>
-<h3 class="top-left" markdown>
+<div class="bg-black" markdown>
+<!-- <h3 class="top-left" markdown>
 **[Qodo Merge | v????????](./versions/latest/qodo-merge.md)**
 </h3>
 
-<div class="centered" markdown>
+<!-- <div class="centered" markdown>
 
 # Qodo Merge **Help Command**
 
@@ -76,10 +76,10 @@ WRITE ABOUT HELP COMMAND
 <div class="grid cards" style="border: 1px solid #765bfa;" markdown>
 - [<b class="white">Read **Qodo Merge** full Release Notes</b>](./versions/latest/qodo-merge.md)
 </div>
-</div>
-</div>
-</div>
 </div> -->
+</div>
+</div> 
+</div>
 
 <!-- Additional Information -->
 <!-- 
