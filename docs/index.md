@@ -11,7 +11,7 @@ description: Latest release notes of Qodo Gen and Qodo Merge
 <div class="centered" markdown>
 ![](./assets/title.png){ class="no-border"; }
 
-### October 8, 2024
+### October 15, 2024
 </div>
 
 <!-- Qodo Gen -->
