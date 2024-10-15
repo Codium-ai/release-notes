@@ -17,7 +17,7 @@ description: Latest release notes of Qodo Gen and Qodo Merge
 <!-- Qodo Gen -->
 <div class="bg-black" markdown>
 <h3 class="top-left" markdown>
-**[Qodo Gen | JetBrains v0.9.5 | VSCode v0.9.15](./versions/latest/qodo-gen.md)**
+**[Qodo Gen | JetBrains v0.11 | VSCode v0.11](./versions/latest/qodo-gen.md)**
 </h3>
 
 <div class="centered" markdown>
