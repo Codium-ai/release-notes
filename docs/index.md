@@ -57,7 +57,7 @@ Check out the full Qodo Gen Release Notes to learn more.
 </div>
 
 <!-- Qodo Merge -->
-<div class="bg-black" markdown>
+<!-- <div class="bg-black" markdown>
 <h3 class="top-left" markdown>
 **[Qodo Merge | v????????](./versions/latest/qodo-merge.md)**
 </h3>
@@ -79,7 +79,7 @@ WRITE ABOUT HELP COMMAND
 </div>
 </div>
 </div>
-</div>
+</div> -->
 
 <!-- Additional Information -->
 <!-- 
