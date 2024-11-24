@@ -2,24 +2,34 @@
 hide:
   - toc
   - navigation
-title: Qodo Merge Release Notes
-subtitle: Qodo Merge Release Notes
+title: Qodo Merge Version History
 ---
 #
 <div markdown class="centered">
 ![](../../assets/title.png){ class="no-border"}
 
-### September 30, 2024
-#### v????????
-
 <div class="content" markdown>
 <div class="bg-black" markdown>
 
-# Qodo Merge **Help Command**
+###
+# Qodo Merge Version History
 
 <div class="left-padding" markdown>
+  
+#### v0.24
+- **Release Date:** September 2024
+- **Main changes:**
+    - Introduced Chrome Extension.
+    - Introduced PR-Chat.
 
-WRITE ABOUT HELP COMMAND
+#### v0.23
+- **Release Date:** July 2024
+- **Main changes:**
+    - Introduced Impact Report.
+
+</div>
+
+---
 
 <div class="centered" markdown>
 

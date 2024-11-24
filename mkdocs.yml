@@ -3,8 +3,8 @@ site_description: Latest release notes of Qodo Gen and Qodo Merge
 
 nav: 
   - Qodo Release Notes: 'index.md'
-  - qodoGen: 'versions/latest/qodo-gen.md'
-  - qodoMerge: 'versions/latest/qodo-merge.md'
+  - QodoGen: 'versions/latest/qodo-gen.md'
+  - QodoMerge: 'versions/latest/qodo-merge.md'
   - Older Versions: 
     - August 26, 2024:
       - 'versions/2024-08-26/index.md'
