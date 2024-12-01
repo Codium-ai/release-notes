@@ -12,9 +12,7 @@ description: Latest release notes of Qodo Gen and Qodo Merge
 <div class="centered" markdown>
 ![](./assets/title.png){ class="no-border"; }
 
-### November 2024
-
----
+### December 2024
 
 </div>
 
@@ -27,33 +25,30 @@ description: Latest release notes of Qodo Gen and Qodo Merge
 
 <div class="left-padding" markdown>
 
-## **Model Selection** now available!
+## Customize Qodo Gen Chat with **Chat Preferences**
 
-Utilize the full potential of AI: switch between the world's most advanced AI models in real-time to get the best, most relevant chat experience for your query.
+Customize your chat experience by setting personal and team preferences, configuring command-specific settings, and adjusting various other parameters.
 
-### Available Models
+Designed both for individuals and teams, this new feature is accessible through Qodo Gen's settings menu.
 
-1. **GPT-4.0** - The gold standard for advanced reasoning. Reliable for everyday, iterative coding tasks requiring up-to-date knowledge.
-2. **GPT-o1-preview** - Enhanced reasoning and extensive knowledge base. Ideal for planning, difficult debugging, and deep reasoning about code.
-3. **GPT-o1-mini** - Lightning-fast coding specialist, optimized for efficiency. Best for quick 
-4. **Claude 3.5 Sonnet** - Anthropic's latest, built for precision. Ideal for everyday coding tasks with excellent flexibility and speed.
-5. **Gemini 1.5 Pro** - Google's cutting-edge multimodel AI. Best suited for tasks that need the whole project in context, such as large-scale refactoring or generating project-wide documentation.
+Some of the possible preferences include:
 
-<div class="centered" markdown>
-![Model Selection](https://www.qodo.ai/images/qodo-gen-gifs/ModelSelection.gif){: style='width: 60%; height: 60%'}
-</div>
+1. **Command-specific instructions:** Add extra instructions for individual commands to be run automatically.
+2. **Global instructions:** Define a global set of instructions that will be run after every command executed.
 
-## Leverage your **Best Practices**
+(gif, example)
 
-Every team or company have their own **Best Practices**.
+## Presenting **`/help` command**
 
-With Qodo Gen, you can easily enforce these best practices by integrating them into your code suggestions.
+Ask documentation-related questions directly in Qodo Gen Chat, leveraging the model's understanding of the product's documentation to provide precise and contextual answers.
 
-All you need to do is create a file in the root of your project, and let Qodo Gen do the rest.
+Type `/help` in the chatbox followed by your question regarding Qodo products to receive detailed information.
 
-Use Qodo Gen's newest command, `/generate-best-practices`, to start!
+## **Chat History** now persists between sessions
 
-[Learn more about Best Practices in our documentation platform.](https://qodo-gen-docs.qodo.ai/chat/commands/best-practices/)
+Never lose your Chat History: Chat History now persists between sessions, meaning even if you close your IDE, past chat sessions will still remain available.
+
+[Learn more about Chat History in our documentation platform.](https://qodo-gen-docs.qodo.ai/chat/chat-history/)
 
 </div>
 
@@ -76,13 +71,6 @@ Use Qodo Gen's newest command, `/generate-best-practices`, to start!
 
 <div class="left-padding" markdown>
 
-## **Jira** Integration
-
-We’re excited to announce Jira Integration in Qodo Merge, enabling seamless code review integration with GitHub Issues, Jira Cloud, and Jira Server!
-
-Use your tickets as context to make your Qodo Merge experience with `/describe` and `review` commands tailored for your needs.
-
-[Learn more about Jira Integration in our documentation platform.](https://qodo-merge-docs.qodo.ai/core-abilities/fetching_ticket_context/)
 
 <div class="centered" markdown>
 <div class="grid cards" style="border: 1px solid #765bfa;" markdown>
