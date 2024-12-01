@@ -16,12 +16,6 @@ title: Qodo Gen Version History
 
 <div class="left-padding" markdown>
 
-#### [Jetbrains v0.12](https://plugins.jetbrains.com/plugin/21206-qodo-gen-formerly-codiumate-/edit/versions/stable/628544) | [VSCode v0.12.1](https://github.com/Codium-ai/codium-ai-vscode/releases/tag/v0.12.1)
-- **Release Date:** November 2024
-- **Main changes:**
-    - Model Selection feature introduced.
-    - generate-best-practices introduced.
-  
 #### [Jetbrains v0.11](https://plugins.jetbrains.com/plugin/21206-qodo-gen-formerly-codiumate-/edit/versions/stable/619416) | [VSCode v0.11](https://github.com/Codium-ai/codium-ai-vscode/releases/tag/v0.11.0)
 - **Release Date:** October 2024
 - **Main changes:**
