@@ -53,7 +53,7 @@ All you need to do is create a file in the root of your project, and let Qodo Ge
 
 Use Qodo Gen's newest command, `/generate-best-practices`, to start!
 
-[Learn more about Best Practices in our documentation platform.](https://qodo-gen-docs.qodo.ai/chat/commands/best-practices/)
+[Learn more about Best Practices in our documentation platform.](https://docs.qodo.ai/qodo-documentation/qodo-gen/qodo-gen-chat/commands/generate-best-practices)
 
 </div>
 
